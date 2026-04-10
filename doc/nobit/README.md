@@ -1,0 +1,1 @@
+# Método Nobit para el registro de información
