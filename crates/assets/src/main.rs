@@ -2,7 +2,8 @@ mod sunat;
 
 use std::env;
 
-fn main() {
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
@@ -10,8 +11,9 @@ fn main() {
         std::process::exit(1);
     }
 
-    match args[1] {
-        "cronograma": sunat::cronograma::handle(args[2]),
-        _ => std::process::exit(1),
+    if args[1] == "cronograma" {
+        sunat::cronograma::handle(&args[2]).await?;
     }
+
+    Ok(())
 }

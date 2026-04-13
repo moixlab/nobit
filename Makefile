@@ -10,26 +10,21 @@ help:
 
 build:
 	@echo "Compilando...\n"
-	@mkdir -p ./bin/
-	@cargo build --release -p nobit
-	@cp -f ./target/release/nobit ./bin/
+	mkdir -p ./bin/
+	cargo build --release -p nobit
+	cp -f ./target/release/nobit ./bin/
 
 clean:
 	@echo "Limpiando ejecutables...\n"
-	@rm -rf ./bin/
+	rm -rf ./bin/
 
 test:
 	@echo "Ejecutando pruebas...\n"
 
-assets:
-	@echo "Preparando Assets...\n"
-	@mkdir -p ./assets/
-	@cargo run --release -p assets
-
 pkgs:
 	@echo "Instalando paquetes...\n"
-	@sudo rm -f /etc/apt/sources.list.d/yarn.*
-	@sudo apt update -y
-	@sudo apt install -y \
+	sudo rm -f /etc/apt/sources.list.d/yarn.*
+	sudo apt update -y
+	sudo apt install -y \
 		rustup
-	@rustup default stable
+	rustup default stable
