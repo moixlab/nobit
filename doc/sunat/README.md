@@ -7,6 +7,7 @@
 * [Regímenes tributarios](./legal/regimenes.md)
 * [Cronograma 2026 para Google Calendar](../../assets/cronograma_2026.csv)
 * [Plan Contable General Empresarial 2019 (sin elemento 0 y 9)](../../assets/pcge_2019.csv)
+* [Cuentas extra para elemento 0 y 9](./tecnico/ple-extra.md)
 
 ### PLE - Programa de Libros Electrónicos
 
