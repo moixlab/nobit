@@ -60,6 +60,7 @@ fn make_csv(
     let mut year: i32 = year.parse::<i32>()?;
     let file = File::open(file_path)?;
     let reader = BufReader::new(file);
+
     let mut csv = OpenOptions::new()
         .append(true)
         .create(true)
