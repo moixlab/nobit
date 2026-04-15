@@ -9,3 +9,4 @@
 ### PLE - Programa de Libros Electrónicos
 
 * [Nombres de archivos](./tecnico/ple-nombres.md)
+* [Código de libros](./tecnico/ple-codigo-libros.md)
