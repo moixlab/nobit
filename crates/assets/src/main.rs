@@ -13,6 +13,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     if args[1] == "cronograma" {
         sunat::cronograma::handle(&args[2]).await?;
+    } else if args[1] == "pcge" {
+        sunat::pcge::handle(&args[2]).await?;
     }
 
     Ok(())
