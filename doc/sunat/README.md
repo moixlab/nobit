@@ -13,5 +13,6 @@
 
 * [Nombres de archivos](./tecnico/ple-nombres.md)
 * [Código de libros](./tecnico/ple-codigo-libros.md)
+* [Libro diario de formato simplificado](./tecnico/ple-050200.md)
 * [Libro diario de formato simplificado - Detalle del plan contable utilizado](./tecnico/ple-050400.md)
 * [Tabla 17: Plan de cuentas](./tecnico/tablas/t17.md)
