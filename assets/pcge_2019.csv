@@ -1,1627 +1,1627 @@
-20260101|101|Caja|01||||1
-20260101|102|Fondos fijos|01||||1
-20260101|103|Efectivo y cheques en tránsito|01||||1
-20260101|1031|Efectivo en tránsito|01||||1
-20260101|1032|Cheques en tránsito|01||||1
-20260101|104|Cuentas corrientes en instituciones financieras|01||||1
-20260101|1041|Cuentas corrientes operativas|01||||1
-20260101|1042|Cuentas corrientes para fines específicos|01||||1
-20260101|105|Otros equivalentes de efectivo|01||||1
-20260101|1051|Otro equivalentes de efectivo|01||||1
-20260101|106|Depósitos en instituciones financieras|01||||1
-20260101|1061|Depósitos de ahorro|01||||1
-20260101|1062|Depósitos a plazo|01||||1
-20260101|107|Fondos sujetos a restricción|01||||1
-20260101|1071|Fondos en garantía|01||||1
-20260101|1072|Fondos retenidos por mandato de la autoridad|01||||1
-20260101|1073|Otros fondos sujetos a restricción|01||||1
-20260101|111|Inversiones mantenidas para negociación|01||||1
-20260101|1111|Valores emitidos o garantizados por el Estado|01||||1
-20260101|11111|Costo|01||||1
-20260101|11112|Valor Razonable|01||||1
-20260101|1112|Valores emitidos por el sistema financiero|01||||1
-20260101|11121|Costo|01||||1
-20260101|11122|Valor Razonable|01||||1
-20260101|1113|Valores emitidos por entidades|01||||1
-20260101|11131|Costo|01||||1
-20260101|11132|Valor Razonable|01||||1
-20260101|1114|Otros títulos representativos de deuda|01||||1
-20260101|11141|Costo|01||||1
-20260101|11142|Valor Razonable|01||||1
-20260101|1115|Participaciones en entidades|01||||1
-20260101|11151|Costo|01||||1
-20260101|11152|Valor Razonable|01||||1
-20260101|112|Otras inversiones financieras|01||||1
-20260101|1121|Otras inversiones financieras|01||||1
-20260101|11211|Costo|01||||1
-20260101|11212|Valor Razonable|01||||1
-20260101|113|Activos financieros – Acuerdo de compra|01||||1
-20260101|1131|Inversiones mantenidas para negociación – Acuerdo de compra|01||||1
-20260101|11311|Costo|01||||1
-20260101|11312|Valor Razonable|01||||1
-20260101|1132|Otras inversiones financieras|01||||1
-20260101|11321|Costo|01||||1
-20260101|11322|Valor Razonable|01||||1
-20260101|121|Facturas, boletas y otros comprobantes por cobrar|01||||1
-20260101|1211|No emitidas|01||||1
-20260101|1212|Emitidas en cartera|01||||1
-20260101|1213|En cobranza|01||||1
-20260101|1214|En descuento|01||||1
-20260101|122|Anticipos de clientes|01||||1
-20260101|123|Letras por cobrar|01||||1
-20260101|1232|En cartera|01||||1
-20260101|1233|En cobranza|01||||1
-20260101|1234|En descuento|01||||1
-20260101|131|Facturas, boletas y otros comprobantes por cobrar|01||||1
-20260101|1311|No emitidas|01||||1
-20260101|1312|En cartera|01||||1
-20260101|1313|En cobranza|01||||1
-20260101|1314|En descuento|01||||1
-20260101|132|Anticipos recibidos|01||||1
-20260101|1321|Anticipos recibidos|01||||1
-20260101|133|Letras por cobrar|01||||1
-20260101|1331|En cartera|01||||1
-20260101|1332|En cobranza|01||||1
-20260101|1333|En descuento|01||||1
-20260101|1411|Préstamos|01||||1
-20260101|1412|Adelanto de remuneraciones|01||||1
-20260101|1413|Entregas a rendir cuenta|01||||1
-20260101|1419|Otras cuentas por cobrar al personal|01||||1
-20260101|142|Accionistas (o socios)|01||||1
-20260101|1421|Suscripciones por cobrar a socios o accionistas|01||||1
-20260101|1422|Préstamos|01||||1
-20260101|143|Directores|01||||1
-20260101|1431|Préstamos|01||||1
-20260101|1432|Adelanto de dietas|01||||1
-20260101|1433|Entregas a rendir cuenta|01||||1
-20260101|149|Diversas|01||||1
-20260101|161|Préstamos|01||||1
-20260101|1611|Con garantía|01||||1
-20260101|1612|Sin garantía|01||||1
-20260101|162|Reclamaciones a terceros|01||||1
-20260101|1621|Compañías aseguradoras|01||||1
-20260101|1622|Transportadoras|01||||1
-20260101|1623|Servicios públicos|01||||1
-20260101|1624|Tributos 1629 Otras 163 Intereses, regalías y dividendos|01||||1
-20260101|1631|Intereses|01||||1
-20260101|1632|Regalías|01||||1
-20260101|1633|Dividendos|01||||1
-20260101|164|Depósitos otorgados en garantía|01||||1
-20260101|1641|Préstamos de instituciones|01||||1
-20260101|1642|Préstamos de instituciones no financieras|01||||1
-20260101|1643|Depósitos en garantía por alquileres|01||||1
-20260101|1649|Otros depósitos en garantía|01||||1
-20260101|165|Venta de activo inmovilizado|01||||1
-20260101|1651|Inversión mobiliaria|01||||1
-20260101|1652|Propiedades de inversión|01||||1
-20260101|1653|Propiedad, planta y equipo|01||||1
-20260101|1654|Intangibles|01||||1
-20260101|1655|Activos biológicos|01||||1
-20260101|1659|Otros activos inmovilizados|01||||1
-20260101|166|Activos por instrumentos financieros|01||||1
-20260101|1661|Instrumentos financieros primarios|01||||1
-20260101|16611|Costo|01||||1
-20260101|16612|Valor razonable|01||||1
-20260101|1662|Instrumentos financieros derivados|01||||1
-20260101|16621|Costo|01||||1
-20260101|16622|Valor razonable|01||||1
-20260101|167|Tributos por acreditar|01||||1
-20260101|1671|Pagos a cuenta del impuesto a la renta|01||||1
-20260101|1672|Pagos a cuenta de ITAN|01||||1
-20260101|1673|IGV por acreditar en compras|01||||1
-20260101|1674|IGV por acreditar no domiciliados|01||||1
-20260101|1675|Obras por impuestos|01||||1
-20260101|169|Otras cuentas por cobrar diversas|01||||1
-20260101|1691|Entregas a rendir cuenta a terceros|01||||1
-20260101|1699|Otras cuentas por cobrar diversas|01||||1
-20260101|171|Préstamos|01||||1
-20260101|1711|Con garantía|01||||1
-20260101|1712|Sin garantía|01||||1
-20260101|173|Intereses, regalías y dividendos|01||||1
-20260101|1731|Intereses|01||||1
-20260101|1732|Regalías|01||||1
-20260101|1733|Dividendos|01||||1
-20260101|174|Depósitos otorgados en garantía|01||||1
-20260101|1741|Préstamos de instituciones|01||||1
-20260101|1742|Préstamos de instituciones no financieras|01||||1
-20260101|1743|Depósitos en garantía por alquileres|01||||1
-20260101|1749|Otros depósitos en garantía|01||||1
-20260101|175|Venta de activo inmovilizado|01||||1
-20260101|1751|Inversión mobiliaria|01||||1
-20260101|1752|Propiedades de inversión|01||||1
-20260101|1753|Propiedad, planta y equipo|01||||1
-20260101|1754|Intangibles 1755 Activos biológicos|01||||1
-20260101|1759|Otros activos inmovilizados|01||||1
-20260101|176|Activos por instrumentos financieros|01||||1
-20260101|1761|Instrumentos financieros primarios|01||||1
-20260101|17611|Costo|01||||1
-20260101|17612|Valor razonable|01||||1
-20260101|1762|Instrumentos financieros derivados|01||||1
-20260101|17621|Costo|01||||1
-20260101|17622|Valor razonable|01||||1
-20260101|179|Otras cuentas por cobrar diversas|01||||1
-20260101|181|Costos financieros|01||||1
-20260101|182|Seguros 183 Alquileres|01||||1
-20260101|184|Primas pagadas por opciones|01||||1
-20260101|185|Mantenimiento de activos inmovilizados|01||||1
-20260101|189|Otros gastos contratados por anticipado|01||||1
-20260101|191|Cuentas por cobrar comerciales – Terceros|01||||1
-20260101|1911|Facturas, boletas y otros comprobantes por cobrar|01||||1
-20260101|1913|Letras por cobrar|01||||1
-20260101|192|Cuentas por cobrar comerciales – Relacionadas|01||||1
-20260101|1921|Facturas, boletas y otros comprobantes por cobrar|01||||1
-20260101|1923|Letras por cobrar|01||||1
-20260101|193|Cuentas por cobrar al personal, a los accionistas (socios) y|01||||1
-20260101|1931|Personal|01||||1
-20260101|1932|Accionistas (o socios)|01||||1
-20260101|1933|Directores|01||||1
-20260101|1939|Diversas|01||||1
-20260101|194|Cuentas por cobrar diversas – Terceros|01||||1
-20260101|1941|Préstamos|01||||1
-20260101|1942|Reclamaciones a terceros|01||||1
-20260101|1943|Intereses, regalías y dividendos|01||||1
-20260101|1944|Depósitos otorgados en garantía|01||||1
-20260101|1945|Venta de activo inmovilizado|01||||1
-20260101|1946|Activos por instrumentos financieros|01||||1
-20260101|1949|Otras cuentas por cobrar diversas|01||||1
-20260101|195|Cuentas por cobrar diversas – Relacionadas|01||||1
-20260101|1951|Préstamos|01||||1
-20260101|1953|Intereses, regalías y dividendos|01||||1
-20260101|1954|Depósitos otorgados en garantía|01||||1
-20260101|1955|Venta de activo inmovilizado|01||||1
-20260101|1956|Activos por instrumentos financieros|01||||1
-20260101|1959|Otras cuentas por cobrar diversas|01||||1
-20260101|201|Mercaderías|01||||1
-20260101|2011|Mercaderías|01||||1
-20260101|20111|Costo|01||||1
-20260101|20114|Valor razonable|01||||1
-20260101|211|Productos terminados|01||||1
-20260101|2111|Productos terminados|01||||1
-20260101|21111|Costo|01||||1
-20260101|21113|Costo de financiación|01||||1
-20260101|21114|Valor razonable|01||||1
-20260101|215|Inventario de servicios terminados|01||||1
-20260101|2151|Servicios terminados|01||||1
-20260101|21511|Costo|01||||1
-20260101|221|Subproductos|01||||1
-20260101|222|Desechos y desperdicios|01||||1
-20260101|231|Productos en proceso|01||||1
-20260101|2311|Productos en proceso|01||||1
-20260101|23111|Costo|01||||1
-20260101|23113|Costo de financiación|01||||1
-20260101|235|Inventario de servicios en proceso|01||||1
-20260101|2351|Servicios en proceso|01||||1
-20260101|23511|Costo|01||||1
-20260101|241|Materias primas|01||||1
-20260101|2411|Materias primas|01||||1
-20260101|24111|Costo|01||||1
-20260101|24114|Valor razonable|01||||1
-20260101|251|Materiales auxiliares|01||||1
-20260101|252|Suministros|01||||1
-20260101|2521|Combustibles|01||||1
-20260101|2522|Lubricantes|01||||1
-20260101|2523|Energía 2524 Otros suministros|01||||1
-20260101|253|Repuestos|01||||1
-20260101|261|Envases|01||||1
-20260101|262|Embalajes|01||||1
-20260101|271|Propiedades de inversión|01||||1
-20260101|2711|Terrenos|01||||1
-20260101|27111|Costo|01||||1
-20260101|27112|Revaluación|01||||1
-20260101|27114|Valor razonable|01||||1
-20260101|2712|Edificaciones|01||||1
-20260101|27121|Costo|01||||1
-20260101|27122|Revaluación|01||||1
-20260101|27123|Costos de financiación|01||||1
-20260101|27124|Valor razonable|01||||1
-20260101|272|Propiedad, planta y equipo|01||||1
-20260101|2720|Planta productora en producción|01||||1
-20260101|27201|Costo|01||||1
-20260101|27202|Revaluación|01||||1
-20260101|27203|Costo de financiación|01||||1
-20260101|27204|Valor razonable|01||||1
-20260101|2721|Planta productora en desarrollo|01||||1
-20260101|27211|Costo|01||||1
-20260101|27212|Revaluación|01||||1
-20260101|27213|Costo de financiación|01||||1
-20260101|27214|Valor razonable|01||||1
-20260101|2722|Terrenos|01||||1
-20260101|27221|Costo|01||||1
-20260101|27222|Revaluación|01||||1
-20260101|2723|Edificaciones|01||||1
-20260101|27231|Costo|01||||1
-20260101|27232|Revaluación|01||||1
-20260101|27233|Costo de financiación|01||||1
-20260101|2724|Maquinarias y equipos de explotación|01||||1
-20260101|27241|Costo|01||||1
-20260101|27242|Revaluación|01||||1
-20260101|27233|Costo de financiación|01||||1
-20260101|2725|Unidades de transporte|01||||1
-20260101|27251|Costo|01||||1
-20260101|27252|Revaluación|01||||1
-20260101|2726|Muebles y enseres|01||||1
-20260101|27261|Costo|01||||1
-20260101|27262|Revaluación|01||||1
-20260101|2727|Equipos diversos|01||||1
-20260101|27271|Costo|01||||1
-20260101|27272|Revaluación|01||||1
-20260101|2728|Herramientas y unidades de reemplazo|01||||1
-20260101|27281|Costo|01||||1
-20260101|27282|Revaluación|01||||1
-20260101|2729|Obras en curso|01||||1
-20260101|27291|Costo|01||||1
-20260101|27292|Revaluación|01||||1
-20260101|273|Intangibles|01||||1
-20260101|2731|Concesiones, licencias y derechos|01||||1
-20260101|27311|Costo|01||||1
-20260101|27312|Revaluación|01||||1
-20260101|2732|Patentes y propiedad industrial|01||||1
-20260101|27321|Costo|01||||1
-20260101|27322|Revaluación|01||||1
-20260101|2733|Programas de computadora|01||||1
-20260101|27331|Costo|01||||1
-20260101|27332|Revaluación|01||||1
-20260101|2734|Costos de exploración y desarrollo|01||||1
-20260101|27341|Costo|01||||1
-20260101|27342|Revaluación|01||||1
-20260101|2735|Fórmulas, diseños y prototipos|01||||1
-20260101|27351|Costo|01||||1
-20260101|27352|Revaluación|01||||1
-20260101|2739|Otros activos intangibles|01||||1
-20260101|27391|Costo|01||||1
-20260101|27392|Revaluación|01||||1
-20260101|274|Activos biológicos|01||||1
-20260101|2741|Activos biológicos en producción|01||||1
-20260101|27411|Costo|01||||1
-20260101|27413|Costos de financiación|01||||1
-20260101|27414|Valor razonable|01||||1
-20260101|2742|Activos biológicos en desarrollo|01||||1
-20260101|27421|Costo|01||||1
-20260101|27423|Costos de financiación|01||||1
-20260101|27424|Valor razonable|01||||1
-20260101|275|Depreciación acumulada – Propiedades de inversión|01||||1
-20260101|2752|Edificaciones|01||||1
-20260101|27521|Costo|01||||1
-20260101|27522|Revaluación|01||||1
-20260101|27523|Costo de financiación|01||||1
-20260101|276|Depreciación acumulada – Propiedad, planta y equipo|01||||1
-20260101|2760|Planta productora en producción|01||||1
-20260101|27601|Costo|01||||1
-20260101|27602|Revaluación|01||||1
-20260101|27603|Costo de financiación|01||||1
-20260101|27604|Valor razonable|01||||1
-20260101|2762|Edificaciones|01||||1
-20260101|27621|Costo|01||||1
-20260101|27622|Revaluación|01||||1
-20260101|27623|Costo de financiación|01||||1
-20260101|2763|Maquinarias y equipo de explotación|01||||1
-20260101|27631|Costo|01||||1
-20260101|27632|Revaluación|01||||1
-20260101|27633|Costo de financiación|01||||1
-20260101|2764|Unidades de transporte|01||||1
-20260101|27641|Costo|01||||1
-20260101|27642|Revaluación|01||||1
-20260101|2765|Muebles y enseres|01||||1
-20260101|27651|Costo|01||||1
-20260101|27652|Revaluación|01||||1
-20260101|2766|Equipos diversos|01||||1
-20260101|27661|Costo|01||||1
-20260101|27662|Revaluación|01||||1
-20260101|2767|Herramientas y unidades de reemplazo|01||||1
-20260101|27671|Costo|01||||1
-20260101|27672|Revaluación|01||||1
-20260101|277|Amortización acumulada – Intangibles|01||||1
-20260101|2771|Concesiones, licencias y derechos|01||||1
-20260101|27711|Costo|01||||1
-20260101|27712|Revaluación|01||||1
-20260101|2772|Patentes y propiedad industrial|01||||1
-20260101|27721|Costo|01||||1
-20260101|27722|Revaluación|01||||1
-20260101|2773|Programas de computadora (software)|01||||1
-20260101|27731|Costo|01||||1
-20260101|27732|Revaluación|01||||1
-20260101|2774|Costos de exploración y desarrollo|01||||1
-20260101|27741|Costo|01||||1
-20260101|27742|Revaluación|01||||1
-20260101|2775|Fórmulas, diseños y prototipos|01||||1
-20260101|27751|Costo|01||||1
-20260101|27752|Revaluación|01||||1
-20260101|2779|Otros activos intangibles|01||||1
-20260101|27791|Costo|01||||1
-20260101|27792|Revaluación|01||||1
-20260101|278|Depreciación acumulada – Activos biológicos|01||||1
-20260101|2781|Activos biológicos en producción|01||||1
-20260101|27811|Costo|01||||1
-20260101|27813|Costo de financiación|01||||1
-20260101|2782|Activos biológicos en desarrollo|01||||1
-20260101|27821|Costo|01||||1
-20260101|27823|Costo de financiación|01||||1
-20260101|279|Desvalorización acumulada|01||||1
-20260101|2791|Propiedad de inversión|01||||1
-20260101|27910|Planta productora en producción|01||||1
-20260101|27911|Planta productora en desarrollo|01||||1
-20260101|27912|Terrenos 27913 Edificaciones|01||||1
-20260101|2793|Propiedad, planta y equipo|01||||1
-20260101|27930|Plantas productoras en producción|01||||1
-20260101|27931|Planta productora en desarrollo|01||||1
-20260101|27932|Terrenos 27933 Edificaciones|01||||1
-20260101|27934|Maquinarias y equipos de explotación|01||||1
-20260101|27935|Unidades de transporte|01||||1
-20260101|27936|Muebles y enseres|01||||1
-20260101|27937|Equipos diversos|01||||1
-20260101|27938|Herramientas y unidades de reemplazo|01||||1
-20260101|2794|Intangibles|01||||1
-20260101|27941|Concesiones, licencias y otros derechos|01||||1
-20260101|27942|Patentes y propiedad industrial|01||||1
-20260101|27943|Programas de computadora (software)|01||||1
-20260101|27944|Costos de exploración y desarrollo|01||||1
-20260101|27945|Fórmulas, diseños y prototipos|01||||1
-20260101|27949|Otros activos intangibles|01||||1
-20260101|2795|Activos biológicos|01||||1
-20260101|27951|Activos biológicos en producción|01||||1
-20260101|27952|Activos biológicos en desarrollo|01||||1
-20260101|281|Mercaderías|01||||1
-20260101|284|Materias primas|01||||1
-20260101|285|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|286|Envases y embalajes|01||||1
-20260101|291|Mercaderías|01||||1
-20260101|2911|Mercaderías|01||||1
-20260101|29111|Costo|01||||1
-20260101|292|Productos terminados|01||||1
-20260101|2921|Productos terminados|01||||1
-20260101|29211|Costo|01||||1
-20260101|29213|Costo de financiación|01||||1
-20260101|2925|Inventario de servicios terminados|01||||1
-20260101|29251|Costo|01||||1
-20260101|293|Subproductos, desechos y desperdicios|01||||1
-20260101|2931|Subproductos|01||||1
-20260101|2932|Desechos y desperdicios|01||||1
-20260101|294|Productos en proceso|01||||1
-20260101|2941|Productos en proceso|01||||1
-20260101|29411|Costo|01||||1
-20260101|29413|Costo de financiación|01||||1
-20260101|2945|Inventario de servicios en proceso|01||||1
-20260101|295|Materias primas|01||||1
-20260101|2951|Materias primas|01||||1
-20260101|29511|Costo|01||||1
-20260101|296|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|2961|Materiales auxiliares|01||||1
-20260101|2962|Suministros|01||||1
-20260101|2963|Repuestos|01||||1
-20260101|297|Envases y embalajes|01||||1
-20260101|2971|Envases|01||||1
-20260101|2972|Embalajes|01||||1
-20260101|298|Existencias por recibir|01||||1
-20260101|2981|Mercaderías|01||||1
-20260101|2982|Materias primas|01||||1
-20260101|2983|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|2984|Envases y embalajes|01||||1
-20260101|301|Inversiones a ser mantenidas hasta el vencimiento|01||||1
-20260101|3011|Instrumentos financieros representativos de deuda|01||||1
-20260101|30221|Costo|01||||1
-20260101|30224|Valor razonable|01||||1
-20260101|302|Instrumentos financieros representativos de derecho patrimonial|01||||1
-20260101|3021|Certificados de suscripción preferente|01||||1
-20260101|3022|Acciones representativas de capital social – Comunes|01||||1
-20260101|30221|Costo|01||||1
-20260101|30224|Valor razonable|01||||1
-20260101|30225|Participación patrimonial|01||||1
-20260101|3023|Acciones representativas de capital social – Preferentes|01||||1
-20260101|30231|Costo|01||||1
-20260101|30234|Valor razonable|01||||1
-20260101|30235|Participación patrimonial|01||||1
-20260101|3024|Acciones de inversión|01||||1
-20260101|30241|Costo|01||||1
-20260101|30244|Valor razonable|01||||1
-20260101|30245|Participación patrimonial|01||||1
-20260101|3028|Otros títulos representativos de patrimonio|01||||1
-20260101|30281|Costo|01||||1
-20260101|30284|Valor razonable|01||||1
-20260101|30285|Participación patrimonial|01||||1
-20260101|303|Certificados de participación en fondos - Cuotas|01||||1
-20260101|3031|Fondos de inversión|01||||1
-20260101|30311|Costo|01||||1
-20260101|30314|Valor razonable|01||||1
-20260101|3032|Fondos mutuos|01||||1
-20260101|30321|Costo|01||||1
-20260101|30324|Valor razonable|01||||1
-20260101|304|Participaciones en acuerdos conjuntos|01||||1
-20260101|3041|Operaciones conjuntas|01||||1
-20260101|30411|Costo|01||||1
-20260101|30414|Valor razonable|01||||1
-20260101|30415|Participación patrimonial|01||||1
-20260101|3042|Negocios conjuntos|01||||1
-20260101|30421|Costo|01||||1
-20260101|30424|Valor razonable|01||||1
-20260101|30425|Participación patrimonial|01||||1
-20260101|308|Inversiones mobiliarias – Acuerdos de compra|01||||1
-20260101|3081|Instrumentos financieros representativos de deuda – Acuerdo de compra|01||||1
-20260101|30811|Costo|01||||1
-20260101|30814|Valor razonable|01||||1
-20260101|3082|Instrumentos financieros representativos de derecho patrimonial –|01||||1
-20260101|30821|Costo|01||||1
-20260101|30824|Valor razonable|01||||1
-20260101|311|Terrenos|01||||1
-20260101|3111|Urbanos|01||||1
-20260101|31111|Costo|01||||1
-20260101|31112|Revaluación|01||||1
-20260101|31114|Valor razonable|01||||1
-20260101|3112|Rurales|01||||1
-20260101|31121|Costo|01||||1
-20260101|31122|Revaluación|01||||1
-20260101|31124|Valor razonable|01||||1
-20260101|312|Edificaciones|01||||1
-20260101|3121|Edificaciones|01||||1
-20260101|31211|Costo|01||||1
-20260101|31212|Revaluación|01||||1
-20260101|31213|Costos de financiación|01||||1
-20260101|31214|Valor razonable|01||||1
-20260101|313|Construcciones en curso|01||||1
-20260101|3131|Edificaciones|01||||1
-20260101|31311|Costo|01||||1
-20260101|31312|Revaluación|01||||1
-20260101|31313|Costos de financiación|01||||1
-20260101|31314|Valor razonable|01||||1
-20260101|321|Propiedades de inversión - Arrendamiento financiero|01||||1
-20260101|3211|Terrenos|01||||1
-20260101|32111|Costo|01||||1
-20260101|32112|Revaluación|01||||1
-20260101|32114|Valor razonable|01||||1
-20260101|3212|Edificaciones|01||||1
-20260101|32121|Costo|01||||1
-20260101|32122|Revaluación|01||||1
-20260101|32123|Costo de financiación|01||||1
-20260101|32124|Valor razonable|01||||1
-20260101|322|Propiedad, planta y equipo - Arrendamiento financiero|01||||1
-20260101|3220|Planta productora en producción|01||||1
-20260101|32201|Costo|01||||1
-20260101|32202|Revaluación|01||||1
-20260101|32203|Costo de financiación|01||||1
-20260101|3221|Planta productora en desarrollo|01||||1
-20260101|32211|Costo|01||||1
-20260101|32212|Revaluación|01||||1
-20260101|32213|Costo de financiación|01||||1
-20260101|3222|Terrenos|01||||1
-20260101|32221|Costo|01||||1
-20260101|32222|Revaluación|01||||1
-20260101|3223|Edificaciones|01||||1
-20260101|32231|Costo|01||||1
-20260101|32232|Revaluación|01||||1
-20260101|32233|Costo de financiación|01||||1
-20260101|3224|Maquinaria y equipo de explotación|01||||1
-20260101|32241|Costo|01||||1
-20260101|32242|Revaluación|01||||1
-20260101|32243|Costo de financiación|01||||1
-20260101|3225|Unidades de transporte|01||||1
-20260101|32251|Costo|01||||1
-20260101|32252|Revaluación|01||||1
-20260101|3226|Muebles y enseres|01||||1
-20260101|32261|Costo|01||||1
-20260101|32262|Revaluación|01||||1
-20260101|3227|Equipos diversos|01||||1
-20260101|32271|Costo|01||||1
-20260101|32272|Revaluación|01||||1
-20260101|3228|Herramientas y unidades de reemplazo|01||||1
-20260101|32281|Costo|01||||1
-20260101|32282|Revaluación|01||||1
-20260101|323|Propiedad, planta y equipo - Arrendamiento operativo|01||||1
-20260101|3230|Planta productora en producción|01||||1
-20260101|32301|Costo|01||||1
-20260101|32302|Revaluación|01||||1
-20260101|3232|Terrenos|01||||1
-20260101|32321|Costo|01||||1
-20260101|3233|Edificaciones|01||||1
-20260101|32331|Costo|01||||1
-20260101|32332|Revaluación|01||||1
-20260101|3234|Maquinaria y equipo de explotación|01||||1
-20260101|32341|Costo|01||||1
-20260101|32342|Revaluación|01||||1
-20260101|3235|Unidades de transporte|01||||1
-20260101|32351|Costo|01||||1
-20260101|32352|Revaluación|01||||1
-20260101|3236|Equipos diversos|01||||1
-20260101|32361|Costo|01||||1
-20260101|32362|Revaluación|01||||1
-20260101|330|Planta productora|01||||1
-20260101|3301|Planta productora en producción|01||||1
-20260101|33011|Costo|01||||1
-20260101|33012|Revaluación|01||||1
-20260101|33013|Costo de financiación|01||||1
-20260101|33014|Valor razonable|01||||1
-20260101|3302|Planta productora en desarrollo|01||||1
-20260101|33021|Costo|01||||1
-20260101|33022|Revaluación|01||||1
-20260101|33023|Costo de financiación|01||||1
-20260101|33024|Valor razonable|01||||1
-20260101|331|Terrenos|01||||1
-20260101|3311|Terrenos|01||||1
-20260101|33111|Costo|01||||1
-20260101|33112|Revaluación|01||||1
-20260101|332|Edificaciones|01||||1
-20260101|3321|Edificaciones|01||||1
-20260101|33211|Costo|01||||1
-20260101|33212|Revaluación|01||||1
-20260101|33213|Costo de financiación|01||||1
-20260101|3324|Instalaciones|01||||1
-20260101|33241|Costo|01||||1
-20260101|33242|Revaluación|01||||1
-20260101|33243|Costo de financiación|01||||1
-20260101|3325|Mejoras en locales arrendados.|01||||1
-20260101|33251|Costo|01||||1
-20260101|33252|Revaluación|01||||1
-20260101|33253|Costo de Financiación|01||||1
-20260101|333|Maquinaria y equipo de explotación|01||||1
-20260101|3331|Maquinaria y equipo de explotación|01||||1
-20260101|33311|Costo|01||||1
-20260101|33312|Revaluación|01||||1
-20260101|33313|Costo de financiación|01||||1
-20260101|334|Unidades de transporte|01||||1
-20260101|3341|Vehículos motorizados|01||||1
-20260101|33411|Costo|01||||1
-20260101|33412|Revaluación|01||||1
-20260101|3342|Vehículos no motorizados|01||||1
-20260101|33421|Costo|01||||1
-20260101|33422|Revaluación|01||||1
-20260101|335|Muebles y enseres|01||||1
-20260101|3351|Muebles|01||||1
-20260101|33511|Costo|01||||1
-20260101|33512|Revaluación|01||||1
-20260101|3352|Enseres|01||||1
-20260101|33521|Costo|01||||1
-20260101|33522|Revaluación|01||||1
-20260101|336|Equipos diversos|01||||1
-20260101|3361|Equipo para procesamiento de información|01||||1
-20260101|33611|Costo|01||||1
-20260101|33612|Revaluación|01||||1
-20260101|3362|Equipo de comunicación|01||||1
-20260101|33621|Costo|01||||1
-20260101|33622|Revaluación|01||||1
-20260101|3363|Equipo de seguridad|01||||1
-20260101|33631|Costo|01||||1
-20260101|33632|Revaluación|01||||1
-20260101|3364|Equipo de medio ambiente|01||||1
-20260101|33641|Costo|01||||1
-20260101|33642|Revaluación|01||||1
-20260101|3369|Otros equipos|01||||1
-20260101|33691|Costo|01||||1
-20260101|33692|Revaluación|01||||1
-20260101|337|Herramientas y unidades de reemplazo|01||||1
-20260101|3371|Herramientas|01||||1
-20260101|33711|Costo|01||||1
-20260101|33712|Revaluación|01||||1
-20260101|3372|Unidades de reemplazo|01||||1
-20260101|33721|Costo|01||||1
-20260101|33722|Revaluación|01||||1
-20260101|338|Unidades por recibir|01||||1
-20260101|3381|Maquinaria y equipo de explotación|01||||1
-20260101|3382|Equipo de transporte|01||||1
-20260101|3383|Muebles y enseres|01||||1
-20260101|3386|Equipos diversos|01||||1
-20260101|3387|Herramientas y unidades de reemplazo|01||||1
-20260101|339|Obras en curso|01||||1
-20260101|3391|Adecuación de terrenos|01||||1
-20260101|3392|Edificaciones en curso|01||||1
-20260101|33921|Costo|01||||1
-20260101|33922|Costo de financiación|01||||1
-20260101|3393|Maquinaria en montaje|01||||1
-20260101|33931|Costo|01||||1
-20260101|33932|Costo de financiación|01||||1
-20260101|341|Concesiones, licencias y otros derechos|01||||1
-20260101|3411|Derechos por concesiones|01||||1
-20260101|34111|Costo|01||||1
-20260101|34112|Revaluación|01||||1
-20260101|3412|Licencias|01||||1
-20260101|34121|Costo|01||||1
-20260101|34122|Revaluación|01||||1
-20260101|3419|Otros derechos|01||||1
-20260101|34191|Costo|01||||1
-20260101|34192|Revaluación|01||||1
-20260101|342|Patentes y propiedad industrial|01||||1
-20260101|3421|Patentes|01||||1
-20260101|34211|Costo|01||||1
-20260101|34212|Revaluación|01||||1
-20260101|3422|Marcas|01||||1
-20260101|34221|Costo|01||||1
-20260101|34222|Revaluación|01||||1
-20260101|343|Programas de computadora ( software ) 3431 Aplicaciones informáticas|01||||1
-20260101|34311|Costo|01||||1
-20260101|34312|Revaluación|01||||1
-20260101|344|Costos de exploración y desarrollo|01||||1
-20260101|3441|Costos de exploración|01||||1
-20260101|34411|Costo|01||||1
-20260101|34412|Revaluación|01||||1
-20260101|34413|Costo de financiación|01||||1
-20260101|3442|Costos de desarrollo|01||||1
-20260101|34421|Costo|01||||1
-20260101|34422|Revaluación|01||||1
-20260101|34423|Costo de financiación|01||||1
-20260101|345|Fórmulas, diseños y prototipos|01||||1
-20260101|3451|Fórmulas|01||||1
-20260101|34511|Costo|01||||1
-20260101|34512|Revaluación|01||||1
-20260101|3452|Diseños y prototipos|01||||1
-20260101|34521|Costo|01||||1
-20260101|34522|Revaluación|01||||1
-20260101|347|Plusvalía mercantil|01||||1
-20260101|3471|Plusvalía mercantil|01||||1
-20260101|349|Otros activos intangibles|01||||1
-20260101|3491|Otros activos intangibles|01||||1
-20260101|34911|Costo|01||||1
-20260101|34912|Revaluación|01||||1
-20260101|351|Activos biológicos en producción|01||||1
-20260101|3511|De origen animal|01||||1
-20260101|35111|Costo|01||||1
-20260101|35113|Costo de financiación|01||||1
-20260101|35114|Valor razonable|01||||1
-20260101|3512|De origen vegetal|01||||1
-20260101|35121|Costo|01||||1
-20260101|35123|Costo de financiación|01||||1
-20260101|35124|Valor razonable|01||||1
-20260101|352|Activos biológicos en desarrollo|01||||1
-20260101|3521|De origen animal|01||||1
-20260101|35211|Costo|01||||1
-20260101|35213|Costo de financiación|01||||1
-20260101|35214|Valor razonable|01||||1
-20260101|3522|De origen vegetal|01||||1
-20260101|35221|Costo|01||||1
-20260101|35223|Costo de financiación|01||||1
-20260101|35224|Valor razonable|01||||1
-20260101|361|Desvalorización de propiedades de inversión|01||||1
-20260101|3611|Terrenos|01||||1
-20260101|36111|Costo|01||||1
-20260101|36112|Revaluación|01||||1
-20260101|3612|Edificaciones|01||||1
-20260101|36121|Costo|01||||1
-20260101|36122|Revaluación|01||||1
-20260101|36123|Costo de financiación|01||||1
-20260101|3613|Construcciones en curso - edificaciones|01||||1
-20260101|36131|Costo|01||||1
-20260101|36132|Revaluación|01||||1
-20260101|36133|Costo de financiación|01||||1
-20260101|362|Desvalorización de propiedades de inversión - Arrendamiento financiero|01||||1
-20260101|3621|Terrenos|01||||1
-20260101|36211|Costo|01||||1
-20260101|36212|Revaluación|01||||1
-20260101|3622|Edificaciones|01||||1
-20260101|36221|Costo|01||||1
-20260101|36222|Revaluación|01||||1
-20260101|36223|Costo de financiación|01||||1
-20260101|363|Desvalorización de propiedad, planta y equipo - Arrendamiento financiero|01||||1
-20260101|3631|Terrenos|01||||1
-20260101|36311|Costo|01||||1
-20260101|36312|Revaluación|01||||1
-20260101|3632|Edificaciones|01||||1
-20260101|36321|Costo|01||||1
-20260101|36322|Revaluación|01||||1
-20260101|36323|Costo de financiación|01||||1
-20260101|3633|Maquinaria y equipo de explotación|01||||1
-20260101|36331|Costo|01||||1
-20260101|36332|Revaluación|01||||1
-20260101|36333|Costo de financiación|01||||1
-20260101|3634|Unidades de transporte|01||||1
-20260101|36341|Costo|01||||1
-20260101|36342|Revaluación|01||||1
-20260101|3635|Muebles y enseres|01||||1
-20260101|36351|Costo|01||||1
-20260101|36352|Revaluación|01||||1
-20260101|3636|Equipos diversos|01||||1
-20260101|36361|Costo|01||||1
-20260101|36362|Revaluación|01||||1
-20260101|364|Desvalorización de propiedad, planta y equipo|01||||1
-20260101|3640|Planta productora en producción|01||||1
-20260101|36401|Costo|01||||1
-20260101|36402|Planta productora en producción - Revaluación|01||||1
-20260101|36403|Planta productora en producción - Costo de financiación|01||||1
-20260101|33404|Planta productora en producción - Valor razonable|01||||1
-20260101|36405|Planta productora en desarrollo - Costo|01||||1
-20260101|36406|Planta productora en desarrollo - Revaluación|01||||1
-20260101|36407|Planta productora en desarrollo - Costo de financiación|01||||1
-20260101|36408|Planta productora en desarrollo - Valor razonable|01||||1
-20260101|3641|Terrenos|01||||1
-20260101|36411|Costo|01||||1
-20260101|36412|Revaluación|01||||1
-20260101|3642|Edificaciones|01||||1
-20260101|36421|Edificaciones - Costo|01||||1
-20260101|36422|Edificaciones - Revaluación|01||||1
-20260101|36423|Edificaciones - Costo de financiación|01||||1
-20260101|36424|Instalaciones - Costo|01||||1
-20260101|36425|Instalaciones - Revaluación|01||||1
-20260101|36426|Instalaciones - Costo de financiación|01||||1
-20260101|36427|Mejoras en locales arrendados - Costo|01||||1
-20260101|36428|Mejoras en locales arrendados - Revaluación|01||||1
-20260101|36429|Mejoras en locales arrendados - Costo de financiación|01||||1
-20260101|3643|Maquinaria y equipo de explotación|01||||1
-20260101|36431|Costo|01||||1
-20260101|36432|Revaluación|01||||1
-20260101|36433|Costo de financiación|01||||1
-20260101|3644|Unidades de transporte|01||||1
-20260101|36441|Costo|01||||1
-20260101|36442|Revaluación|01||||1
-20260101|3645|Muebles y enseres|01||||1
-20260101|36451|Costo|01||||1
-20260101|36452|Revaluación|01||||1
-20260101|3646|Equipos diversos|01||||1
-20260101|36461|Costo|01||||1
-20260101|36462|Revaluación|01||||1
-20260101|3647|Herramientas|01||||1
-20260101|36471|Herramientas - Costo|01||||1
-20260101|38472|Herramientas - Revaluación|01||||1
-20260101|38473|Unidades de reemplazo - costo|01||||1
-20260101|38474|Unidades de reemplazo - Revaluación|01||||1
-20260101|3649|Obras en curso|01||||1
-20260101|36491|Costo|01||||1
-20260101|36492|Revaluación|01||||1
-20260101|365|Desvalorización de intangibles|01||||1
-20260101|3651|Concesiones, licencias y otros derechos|01||||1
-20260101|36511|Costo|01||||1
-20260101|36512|Revaluación|01||||1
-20260101|3652|Patentes y propiedad industrial|01||||1
-20260101|36521|Costo|01||||1
-20260101|36522|Revaluación|01||||1
-20260101|3653|Programas de computadora ( software ) 36531 Costo|01||||1
-20260101|36532|Revaluación|01||||1
-20260101|3654|Costos de exploración y desarrollo|01||||1
-20260101|36541|Costo|01||||1
-20260101|36542|Revaluación|01||||1
-20260101|36543|Costo de financiación|01||||1
-20260101|3655|Fórmulas, diseños y prototipos|01||||1
-20260101|36551|Costo|01||||1
-20260101|36552|Revaluación|01||||1
-20260101|3657|Plusvalía mercantil|01||||1
-20260101|3659|Otros activos intangibles|01||||1
-20260101|36591|Costo|01||||1
-20260101|36592|Revaluación|01||||1
-20260101|366|Desvalorización de activos biológicos|01||||1
-20260101|3661|Activos biológicos en producción|01||||1
-20260101|36611|Costo|01||||1
-20260101|36613|Costo de financiación|01||||1
-20260101|3662|Activos biológicos en desarrollo|01||||1
-20260101|36621|Costo|01||||1
-20260101|36622|Costo de financiación|01||||1
-20260101|367|Desvalorización de inversiones mobiliarias|01||||1
-20260101|3671|Inversiones a ser mantenidas hasta el vencimiento|01||||1
-20260101|36711|Costo|01||||1
-20260101|3672|Inversiones financieras repres entativas de derecho patrimonial|01||||1
-20260101|36721|Costo|01||||1
-20260101|3673|Otras inversiones financieras|01||||1
-20260101|36731|Costo|01||||1
-20260101|371|Impuesto a la renta diferido|01||||1
-20260101|3711|Impuesto a la renta diferido – Patrimonio|01||||1
-20260101|3712|Impuesto a la renta diferido – Resultados|01||||1
-20260101|372|Participaciones de los trabajadores diferidas|01||||1
-20260101|3721|Participaciones de los trabajadores diferidas – Patrimonio|01||||1
-20260101|3722|Participaciones de los trabajadores diferidas – Resultados|01||||1
-20260101|373|Intereses diferidos|01||||1
-20260101|3731|Intereses no devengados en transacciones con terceros|01||||1
-20260101|3732|Intereses no devengados en medición a valor descontado|01||||1
-20260101|381|Bienes de arte y cultura|01||||1
-20260101|3811|Obras de arte|01||||1
-20260101|3812|Biblioteca|01||||1
-20260101|3813|Otros 382 Diversos|01||||1
-20260101|3821|Monedas y joyas|01||||1
-20260101|3822|Bienes entregados en comodato|01||||1
-20260101|3823|Bienes recibidos en pago (adjudicados y realizables)|01||||1
-20260101|3829|Otros|01||||1
-20260101|391|Depreciación acumulada propiedades de inversión|01||||1
-20260101|3911|Edificaciones|01||||1
-20260101|39111|Costo|01||||1
-20260101|39112|Revaluación|01||||1
-20260101|39113|Costo de financiación|01||||1
-20260101|392|Depreciación acumulada propiedades de in versión - Arrendamiento financiero|01||||1
-20260101|3921|Edificaciones|01||||1
-20260101|39211|Costo|01||||1
-20260101|39212|Revaluación|01||||1
-20260101|39213|Costo de financiación|01||||1
-20260101|393|Depreciación acumulada propiedad, plant a y equipo - Arrendamiento financiero|01||||1
-20260101|3932|Edificaciones|01||||1
-20260101|39321|Costo|01||||1
-20260101|39322|Revaluación|01||||1
-20260101|39323|Costo de financiación|01||||1
-20260101|3933|Maquinarias y equipos de explotación|01||||1
-20260101|39331|Costo|01||||1
-20260101|39332|Revaluación|01||||1
-20260101|39333|Costo de financiación|01||||1
-20260101|3934|Unidades de transporte|01||||1
-20260101|39341|Costo|01||||1
-20260101|39342|Revaluación|01||||1
-20260101|3935|Muebles y enseres|01||||1
-20260101|39351|Costo|01||||1
-20260101|38352|Revaluación|01||||1
-20260101|3936|Equipos diversos|01||||1
-20260101|39361|Costo|01||||1
-20260101|39362|Revaluación|01||||1
-20260101|394|Depreciación acumulada - Arrendamiento operativo|01||||1
-20260101|3941|Activos por derecho de uso - arrendamiento operativo|01||||1
-20260101|39410|Plantas productoras|01||||1
-20260101|39411|Terrenos 39412 Edificaciones|01||||1
-20260101|39413|Maquinarias y equipos de explotación|01||||1
-20260101|39414|Unidades de transporte|01||||1
-20260101|39415|Equipos diversos|01||||1
-20260101|395|Depreciación acumulada de propiedad, planta y equipo|01||||1
-20260101|3952|Depreciación acumulada - Costo|01||||1
-20260101|39520|Plantas productoras|01||||1
-20260101|39521|Edificaciones|01||||1
-20260101|39522|Instalaciones|01||||1
-20260101|39523|Mejoras en locales arrendados|01||||1
-20260101|39524|Maquinarias y equipos de explotación|01||||1
-20260101|39525|Unidades de transporte|01||||1
-20260101|39526|Muebles y enseres|01||||1
-20260101|39527|Equipos diversos|01||||1
-20260101|39528|Herramientas|01||||1
-20260101|39529|Unidades de reemplazo|01||||1
-20260101|3953|Propiedad, planta y equipo - Revaluación|01||||1
-20260101|39530|Plantas productoras|01||||1
-20260101|39531|Edificaciones|01||||1
-20260101|39532|Instalaciones|01||||1
-20260101|39533|Mejoras en locales arrendados|01||||1
-20260101|39534|Maquinarias y equipos de explotación|01||||1
-20260101|39535|Unidades de transporte|01||||1
-20260101|39536|Muebles y enseres|01||||1
-20260101|39537|Equipos diversos|01||||1
-20260101|39538|Herramientas y unidades de reemplazo|01||||1
-20260101|3954|Propiedad, planta y equipo - Costo de financiación|01||||1
-20260101|39540|Plantas productoras|01||||1
-20260101|39541|Edificaciones|01||||1
-20260101|39542|Maquinarias y equipos de explotación|01||||1
-20260101|3955|Propiedad, planta y equipo - Valor razonable|01||||1
-20260101|39550|Plantas productoras|01||||1
-20260101|396|Amortización acumulada|01||||1
-20260101|3961|Intangibles – Costo|01||||1
-20260101|39611|Concesiones, licencias y otros derechos|01||||1
-20260101|39612|Patentes y propiedad industrial|01||||1
-20260101|39613|Programas de computadora ( software ) 39614 Costos de exploración y desarrollo|01||||1
-20260101|39615|Fórmulas, diseños y prototipos|01||||1
-20260101|39619|Otros activos intangibles|01||||1
-20260101|3962|Intangibles – Revaluación|01||||1
-20260101|39621|Concesiones, licencias y otros derechos|01||||1
-20260101|39622|Patentes y propiedad industrial|01||||1
-20260101|39623|Programas de computadora ( software )|01||||1
-20260101|39624|Costos de exploración y desarrollo|01||||1
-20260101|39625|Fórmulas, diseños y prototipos|01||||1
-20260101|39629|Otros activos intangibles|01||||1
-20260101|3963|Intangibles – Costos de financiación|01||||1
-20260101|39633|39634 Programas de computadora|01||||1
-20260101|39635|Costos de desarrollo|01||||1
-20260101|398|Depreciación acumulada - Activos biológicos en producción|01||||1
-20260101|3981|Activos biológicos en producción - Costo|01||||1
-20260101|39811|Activos biológicos en producción|01||||1
-20260101|401|Gobierno nacional|01||||1
-20260101|4011|Impuesto general a las ventas|01||||1
-20260101|40111|IGV – Cuenta propia|01||||1
-20260101|40112|IGV – Servicios prestados por no domiciliados|01||||1
-20260101|40113|IGV – Régimen de percepciones|01||||1
-20260101|40114|IGV – Régimen de retenciones|01||||1
-20260101|40115|IGV – Importaciones|01||||1
-20260101|40116|IGV – Destinado a operaciones gravadas|01||||1
-20260101|40117|IGV -|01||||1
-20260101|4012|Impuesto selectivo al consumo|01||||1
-20260101|4015|Derechos aduaneros|01||||1
-20260101|40151|Derechos arancelarios|01||||1
-20260101|40152|Otros derechos arancelarios|01||||1
-20260101|4017|Impuesto a la renta|01||||1
-20260101|40171|Renta de tercera categoría|01||||1
-20260101|40172|Renta de cuarta categoría|01||||1
-20260101|40173|Renta de quinta categoría|01||||1
-20260101|40174|Renta de no domiciliados|01||||1
-20260101|40175|Otras retenciones|01||||1
-20260101|4018|Otros impuestos y contraprestaciones|01||||1
-20260101|40181|Impuesto a las transacciones financieras|01||||1
-20260101|40182|Impuesto a los juegos de casino y tragamonedas|01||||1
-20260101|40183|Tasas por la prestación de servicios públicos|01||||1
-20260101|40184|Regalías|01||||1
-20260101|40185|Impuesto a los dividendos|01||||1
-20260101|40186|Impuesto temporal a los activos netos|01||||1
-20260101|40189|Otros impuestos|01||||1
-20260101|402|Certificados tributarios|01||||1
-20260101|403|Instituciones públicas|01||||1
-20260101|4031|ESSALUD|01||||1
-20260101|4032|ONP|01||||1
-20260101|4033|Contribución al SENATI|01||||1
-20260101|4034|Contribución al SENCICO|01||||1
-20260101|4039|Otras instituciones|01||||1
-20260101|405|Gobiernos regionales|01||||1
-20260101|406|Gobiernos locales|01||||1
-20260101|40611|Impuesto al patrimonio vehicular|01||||1
-20260101|40612|Impuesto a las apuestas|01||||1
-20260101|40613|Impuesto a los juegos|01||||1
-20260101|40614|Impuesto de alcabala|01||||1
-20260101|40615|Impuesto predial|01||||1
-20260101|40616|Impuesto a los espectáculos públicos no deportivos|01||||1
-20260101|4062|Contribuciones|01||||1
-20260101|4063|Tasas|01||||1
-20260101|40631|Licencia de apertura de establecimientos|01||||1
-20260101|40632|Transporte público|01||||1
-20260101|40633|Estacionamiento de vehículos|01||||1
-20260101|40634|Servicios públicos o arbitrios|01||||1
-20260101|40635|Servicios administrativos o derechos|01||||1
-20260101|409|Otros costos administrativos e intereses|01||||1
-20260101|411|Remuneraciones por pagar|01||||1
-20260101|4111|Sueldos y salarios por pagar|01||||1
-20260101|4112|Comisiones por pagar|01||||1
-20260101|4113|Remuneraciones en especie por pagar|01||||1
-20260101|4114|Gratificaciones por pagar|01||||1
-20260101|4115|Vacaciones por pagar|01||||1
-20260101|413|Participaciones de los trabajadores por pagar|01||||1
-20260101|415|Beneficios sociales de los trabajadores por pagar|01||||1
-20260101|4151|Compensación por tiempo de servicios|01||||1
-20260101|4152|Adelanto de compensación por tiempo de servicios|01||||1
-20260101|4153|Pensiones y jubilaciones|01||||1
-20260101|417|Administradoras de fondos de pensiones|01||||1
-20260101|419|Otras remuneraciones y participaciones por pagar|01||||1
-20260101|421|Facturas, boletas y otros comprobantes por pagar|01||||1
-20260101|4211|No emitidas|01||||1
-20260101|4212|Emitidas|01||||1
-20260101|422|Anticipos a proveedores|01||||1
-20260101|423|Letras por pagar|01||||1
-20260101|424|Honorarios por pagar|01||||1
-20260101|431|Facturas, boletas y otros comprobantes por pagar|01||||1
-20260101|4311|No emitidas|01||||1
-20260101|432|Anticipos otorgados|01||||1
-20260101|4321|Anticipos otorgados|01||||1
-20260101|433|Letras por pagar|01||||1
-20260101|4331|Letras por pagar|01||||1
-20260101|434|Honorarios por pagar|01||||1
-20260101|4341|Honorarios por pagar|01||||1
-20260101|441|Accionistas ( socios, partícipes)|01||||1
-20260101|4411|Préstamos|01||||1
-20260101|4412|Dividendos|01||||1
-20260101|4419|Otras cuentas por pagar|01||||1
-20260101|442|Directores|01||||1
-20260101|4421|Dietas|01||||1
-20260101|4429|Otras cuentas por pagar|01||||1
-20260101|451|Préstamos de instituciones financieras y otras entidades|01||||1
-20260101|4511|Instituciones financieras|01||||1
-20260101|4512|Otras entidades|01||||1
-20260101|452|Contratos de arrendamiento financiero|01||||1
-20260101|453|Obligaciones emitidas|01||||1
-20260101|4531|Bonos emitidos|01||||1
-20260101|4532|Bonos titulizados|01||||1
-20260101|4533|Papeles comerciales|01||||1
-20260101|4539|Otras obligaciones|01||||1
-20260101|454|Otros Instrumentos financieros por pagar|01||||1
-20260101|4541|Letras 4542 Papeles comerciales|01||||1
-20260101|4543|Bonos 4544 Pagarés 4545 Facturas conformadas|01||||1
-20260101|4549|Otras obligaciones financieras|01||||1
-20260101|455|Costos de financiación por pagar|01||||1
-20260101|4551|Préstamos de instituciones financieras y otras entidades|01||||1
-20260101|45511|Instituciones financieras|01||||1
-20260101|45512|Otras entidades|01||||1
-20260101|4552|Contratos de arrendamiento financiero|01||||1
-20260101|4553|Obligaciones emitidas|01||||1
-20260101|45531|Bonos emitidos|01||||1
-20260101|45532|Bonos titulizados|01||||1
-20260101|45533|Papeles comerciales|01||||1
-20260101|45539|Otras obligaciones|01||||1
-20260101|4554|Otros instrumentos financieros por pagar|01||||1
-20260101|45541|Letras|01||||1
-20260101|45542|Papeles comerciales|01||||1
-20260101|45543|Bonos 45544 Pagarés 45545 Facturas conformadas|01||||1
-20260101|45549|Otras obligaciones financieras|01||||1
-20260101|456|Préstamos con compromisos de recompra|01||||1
-20260101|461|Reclamaciones de terceros|01||||1
-20260101|464|Pasivos por instrumentos financieros|01||||1
-20260101|4641|Instrumentos financieros primarios|01||||1
-20260101|4642|Instrumentos financieros derivados|01||||1
-20260101|46421|Cartera de negociación|01||||1
-20260101|46422|Instrumentos de cobertura|01||||1
-20260101|465|Pasivos por compra de activo inmovilizado|01||||1
-20260101|4651|Inversiones mobiliarias|01||||1
-20260101|4652|Propiedades de inversión|01||||1
-20260101|4653|Activos adquiridos en arrendamiento financiero|01||||1
-20260101|4654|Propiedad, planta y equipo|01||||1
-20260101|4655|Intangibles 4656 Activos biológicos|01||||1
-20260101|466|Participación de terceros en acuerdos conjuntos|01||||1
-20260101|467|Depósitos recibidos en garantía|01||||1
-20260101|469|Otras cuentas por pagar diversas|01||||1
-20260101|4691|Subsidios gubernamentales|01||||1
-20260101|4692|Donaciones condicionadas|01||||1
-20260101|4699|Otras cuentas por pagar|01||||1
-20260101|471|Préstamos|01||||1
-20260101|472|Costos de financiación|01||||1
-20260101|473|Anticipos recibidos|01||||1
-20260101|474|Regalías|01||||1
-20260101|475|Dividendos|01||||1
-20260101|476|Depósitos recibidos en garantía|01||||1
-20260101|477|Pasivo por compra de activo|01||||1
-20260101|4771|Inversiones mobiliarias|01||||1
-20260101|4772|Inversiones inmobiliarias|01||||1
-20260101|4773|Activos adquiridos en arrendamiento financiero|01||||1
-20260101|4774|Propiedad, planta y equipo|01||||1
-20260101|4776|Activos biológicos|01||||1
-20260101|479|Otras cuentas por pagar diversas|01||||1
-20260101|4791|Otras cuentas por pagar diversas|01||||1
-20260101|481|Provisión para litigios|01||||1
-20260101|482|Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado|01||||1
-20260101|483|Provisión para reestructuraciones|01||||1
-20260101|484|Provisión para protección y remediación del medio ambiente|01||||1
-20260101|485|Provisión para gastos de responsabilidad social|01||||1
-20260101|486|Provisión para garantías|01||||1
-20260101|487|Provisión por activos por derecho de uso|01||||1
-20260101|489|Otras provisiones|01||||1
-20260101|491|Impuesto a la renta diferido|01||||1
-20260101|4911|Impuesto a la renta diferido – Patrimonio|01||||1
-20260101|4912|Impuesto a la renta diferido – Resultados|01||||1
-20260101|492|Participaciones de los trabajadores diferidas|01||||1
-20260101|4921|Participaciones de los trabajadores diferidas – Patrimonio|01||||1
-20260101|4922|Participaciones de los trabajadores diferidas – Resultados|01||||1
-20260101|493|Intereses diferidos|01||||1
-20260101|4931|Intereses no devengados en transacciones con terceros|01||||1
-20260101|4932|Intereses no devengados en medición a valor descontado|01||||1
-20260101|494|Ganancia en venta con arrendamiento financiero paralelo|01||||1
-20260101|495|Subsidios recibidos diferidos|01||||1
-20260101|496|Ingresos diferidos|01||||1
-20260101|497|Costos diferidos|01||||1
-20260101|501|Capital social|01||||1
-20260101|5011|Acciones|01||||1
-20260101|5012|Participaciones|01||||1
-20260101|502|Acciones en tesorería|01||||1
-20260101|511|Acciones de inversión|01||||1
-20260101|512|Acciones de inversión en tesorería|01||||1
-20260101|521|Primas (descuento) de acciones|01||||1
-20260101|522|Capitalizaciones en trámite|01||||1
-20260101|5221|Aportes|01||||1
-20260101|5222|Reservas|01||||1
-20260101|5223|Acreencias|01||||1
-20260101|5224|Utilidades|01||||1
-20260101|523|Reducciones de capital pendientes de formalización|01||||1
-20260101|561|Diferencia en cambio de inversiones permanentes en entidades extranjeras|01||||1
-20260101|562|Instrumentos financieros – Coberturas|01||||1
-20260101|563|Resultado en activos o pasivos financieros mantenidos para negociación|01||||1
-20260101|5631|Ganancia|01||||1
-20260101|5632|Pérdida|01||||1
-20260101|564|Resultado en otros activos o pasivos por inversiones financieras|01||||1
-20260101|5641|Ganancia|01||||1
-20260101|5642|Pérdida|01||||1
-20260101|565|Resultado en activos o pasivos financieros mantenidos para negociación – Compra|01||||1
-20260101|5651|Ganancia|01||||1
-20260101|5652|Pérdida|01||||1
-20260101|571|Excedente de revaluación|01||||1
-20260101|5711|Propiedad de inversión|01||||1
-20260101|57111|Adquisición directa|01||||1
-20260101|57112|Arrendamiento financiero|01||||1
-20260101|5712|Propiedad, planta y equipo|01||||1
-20260101|57121|Adquisición directa|01||||1
-20260101|57122|Arrendamiento financiero|01||||1
-20260101|5713|Intangibles 5714 Activos por derecho de uso - arrendamiento operativo|01||||1
-20260101|572|Excedente de revaluación – Acciones liberadas recibidas|01||||1
-20260101|581|Reinversión|01||||1
-20260101|582|Legal|01||||1
-20260101|583|Contractuales|01||||1
-20260101|584|Estatutarias|01||||1
-20260101|585|Facultativas|01||||1
-20260101|589|Otras reservas|01||||1
-20260101|591|Utilidades no distribuidas|01||||1
-20260101|5911|Utilidades acumuladas|01||||1
-20260101|5912|Ingresos de años anteriores|01||||1
-20260101|592|Pérdidas acumuladas|01||||1
-20260101|5921|Pérdidas acumuladas|01||||1
-20260101|5922|Gastos de años anteriores|01||||1
-20260101|601|Mercaderías|01||||1
-20260101|6011|Mercaderías|01||||1
-20260101|602|Materias primas|01||||1
-20260101|603|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|6031|Materiales auxiliares|01||||1
-20260101|6032|Suministros|01||||1
-20260101|6033|Repuestos|01||||1
-20260101|604|Envases y embalajes|01||||1
-20260101|6041|Envases|01||||1
-20260101|6042|Embalajes|01||||1
-20260101|609|Costos vinculados con las compras|01||||1
-20260101|6091|Costos vinculados con las compras de mercaderías|01||||1
-20260101|60911|Transporte|01||||1
-20260101|60912|Seguros 60913 Derechos aduaneros|01||||1
-20260101|60914|Comisiones|01||||1
-20260101|60919|Otros costos|01||||1
-20260101|6092|Costos vinculados con las compras de materias primas|01||||1
-20260101|60921|Transporte|01||||1
-20260101|60922|Seguros 60923 Derechos aduaneros|01||||1
-20260101|60924|Comisiones|01||||1
-20260101|60925|Otros costos|01||||1
-20260101|60932|Seguros 60933 Derechos aduaneros|01||||1
-20260101|60934|Comisiones|01||||1
-20260101|60935|Otros costos|01||||1
-20260101|6094|Costos vinculados con las compras de envases y embalajes|01||||1
-20260101|60941|Transporte|01||||1
-20260101|60942|Seguros|01||||1
-20260101|60943|Derechos aduaneros|01||||1
-20260101|60944|Comisiones|01||||1
-20260101|60945|Otros costos|01||||1
-20260101|611|Mercaderías|01||||1
-20260101|6111|Mercaderías|01||||1
-20260101|612|Materias primas|01||||1
-20260101|6121|Materias primas|01||||1
-20260101|613|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|6131|Materiales auxiliares|01||||1
-20260101|6132|Suministros|01||||1
-20260101|6133|Repuestos|01||||1
-20260101|614|Envases y embalajes|01||||1
-20260101|6141|Envases|01||||1
-20260101|6142|Embalajes|01||||1
-20260101|621|Remuneraciones|01||||1
-20260101|6211|Sueldos y salarios|01||||1
-20260101|6212|Comisiones|01||||1
-20260101|6213|Remuneraciones en especie|01||||1
-20260101|6214|Gratificaciones|01||||1
-20260101|6215|Vacaciones|01||||1
-20260101|622|Otras remuneraciones|01||||1
-20260101|623|Indemnizaciones al personal|01||||1
-20260101|624|Capacitación|01||||1
-20260101|625|Atención al personal|01||||1
-20260101|627|Seguridad, previsión social y otras contribuciones|01||||1
-20260101|6271|Régimen de prestaciones de salud|01||||1
-20260101|6272|Régimen de pensiones - Aporte de empresa|01||||1
-20260101|6274|Seguro de vida|01||||1
-20260101|6275|Seguros particulares de prestaciones de salud – EPS y otros particulares 6276 Caja de beneficios de seguridad social del pescador|01||||1
-20260101|6277|Contribuciones al SENATI|01||||1
-20260101|628|Retribuciones al directorio|01||||1
-20260101|629|Beneficios sociales de los trabajadores|01||||1
-20260101|6291|Compensación por tiempo de servicio|01||||1
-20260101|6292|Pensiones y jubilaciones|01||||1
-20260101|6293|Otros beneficios post-empleo|01||||1
-20260101|6294|Participación en las utilidades|01||||1
-20260101|62941|Participación corriente|01||||1
-20260101|62942|Participación diferida|01||||1
-20260101|631|Transporte, correos y gastos de viaje|01||||1
-20260101|6311|Transporte|01||||1
-20260101|63111|De carga|01||||1
-20260101|63112|De pasajeros|01||||1
-20260101|6312|Correos|01||||1
-20260101|6313|Alojamiento|01||||1
-20260101|6314|Alimentación|01||||1
-20260101|6315|Otros gastos de viaje|01||||1
-20260101|632|Asesoría y consultoría|01||||1
-20260101|6321|Administrativa|01||||1
-20260101|6322|Legal y tributaria|01||||1
-20260101|6323|Auditoría y contable|01||||1
-20260101|6324|Mercadotecnia|01||||1
-20260101|6325|Medioambiental|01||||1
-20260101|6326|Investigación y desarrollo|01||||1
-20260101|6327|Producción|01||||1
-20260101|6329|Otros 633 Producción encargada a terceros|01||||1
-20260101|634|Mantenimiento y reparaciones|01||||1
-20260101|6341|Propiedad de inversión|01||||1
-20260101|6342|Activos por derecho de uso|01||||1
-20260101|63421|Financiero|01||||1
-20260101|63432|Operativo|01||||1
-20260101|6343|Propiedad, planta y equipo|01||||1
-20260101|6344|Intangibles 6345 Activos biológicos|01||||1
-20260101|635|Alquileres|01||||1
-20260101|6351|Terrenos|01||||1
-20260101|6352|Edificaciones|01||||1
-20260101|6353|Maquinarias y equipos de explotación|01||||1
-20260101|6354|6355 Equipo de transporte|01||||1
-20260101|6356|Equipos diversos|01||||1
-20260101|636|Servicios básicos|01||||1
-20260101|6361|Energía eléctrica|01||||1
-20260101|6362|Gas 6363 Agua 6364 Teléfono|01||||1
-20260101|6365|Internet 6366 Radio|01||||1
-20260101|6367|Cable|01||||1
-20260101|637|Publicidad, publicaciones, relaciones públicas|01||||1
-20260101|6371|Publicidad|01||||1
-20260101|6372|Publicaciones|01||||1
-20260101|6373|Relaciones públicas|01||||1
-20260101|638|Servicios de contratistas|01||||1
-20260101|639|Otros servicios prestados por terceros|01||||1
-20260101|6391|Gastos bancarios|01||||1
-20260101|6392|Gastos de laboratorio|01||||1
-20260101|641|Gobierno nacional|01||||1
-20260101|6411|Impuesto general a las ventas y selectivo al consumo|01||||1
-20260101|6412|Impuesto a las transacciones financieras|01||||1
-20260101|6413|Impuesto temporal a los activos netos|01||||1
-20260101|6414|Impuesto a los juegos de casino y máquinas tragamonedas|01||||1
-20260101|6415|Regalías mineras|01||||1
-20260101|6416|Cánones|01||||1
-20260101|6419|Otros 642 Gobierno regional|01||||1
-20260101|643|Gobierno local|01||||1
-20260101|6431|Impuesto predial|01||||1
-20260101|6432|Arbitrios municipales y seguridad ciudadana|01||||1
-20260101|6433|Impuesto al patrimonio vehicular|01||||1
-20260101|6434|Licencia de funcionamiento|01||||1
-20260101|6439|Otros 644 Otros gastos por tributos|01||||1
-20260101|6442|Contribución al SENCICO|01||||1
-20260101|6443|Otros|01||||1
-20260101|645|Gastos en deuda tributaria|01||||1
-20260101|6451|Intereses|01||||1
-20260101|6452|intereses - fraccionamiento|01||||1
-20260101|6453|Multas|01||||1
-20260101|6454|Costas y otros|01||||1
-20260101|651|Seguros 652 Regalías|01||||1
-20260101|653|Suscripciones|01||||1
-20260101|654|Licencias y derechos de vigencia|01||||1
-20260101|655|Costo neto de enajenación de activos inmovilizados y operaciones discontinuadas 6551 Costo neto de enajenación de activos inmovilizados|01||||1
-20260101|65511|Inversiones mobiliarias|01||||1
-20260101|65512|Propiedades de inversión|01||||1
-20260101|65513|Activos por derecho de uso - arrendamiento financiero|01||||1
-20260101|65514|Propiedad, planta y equipo|01||||1
-20260101|65515|Intangibles|01||||1
-20260101|65516|Activos biológicos|01||||1
-20260101|6552|Operaciones discontinuadas – Abandono de activos|01||||1
-20260101|65521|Propiedades de inversión|01||||1
-20260101|65522|Activos por derecho de uso - Arrendamiento financiero|01||||1
-20260101|65523|Propiedad, planta y equipo|01||||1
-20260101|65524|Intangibles|01||||1
-20260101|65525|Activos biológicos|01||||1
-20260101|656|Suministros|01||||1
-20260101|658|Gestión medioambiental|01||||1
-20260101|659|Otros gastos de gestión|01||||1
-20260101|6591|Donaciones 6592 Sanciones administrativas|01||||1
-20260101|661|Activo realizable|01||||1
-20260101|6611|Mercaderías|01||||1
-20260101|6612|Productos terminados|01||||1
-20260101|6613|Activos no corrientes mantenidos para la venta|01||||1
-20260101|66131|Propiedades de inversión|01||||1
-20260101|66132|Propiedad, planta y equipo|01||||1
-20260101|66133|Intangibles|01||||1
-20260101|66134|Activos biológicos|01||||1
-20260101|662|Activo inmovilizado|01||||1
-20260101|6621|Propiedades de inversión|01||||1
-20260101|6622|Activos biológicos|01||||1
-20260101|671|Gastos en operaciones de endeudamiento y otros|01||||1
-20260101|6711|Préstamos de instituciones financieras y otras entidades|01||||1
-20260101|6712|Contratos de arrendamiento financiero|01||||1
-20260101|6713|Emisión y colocación de instrumentos representativos de deuda y|01||||1
-20260101|6714|Documentos vendidos o descontados|01||||1
-20260101|672|Pérdida por instrumentos financieros derivados|01||||1
-20260101|673|Intereses por préstamos y otras obligaciones|01||||1
-20260101|6731|Préstamos de instituciones financieras y otras entidades|01||||1
-20260101|67311|Instituciones financieras|01||||1
-20260101|67312|Otras entidades|01||||1
-20260101|6732|Contratos de arrendamiento financiero|01||||1
-20260101|6733|Otros instrumentos financieros por pagar|01||||1
-20260101|6734|Documentos vendidos o descontados|01||||1
-20260101|6735|Obligaciones emitidas|01||||1
-20260101|6736|Obligaciones comerciales|01||||1
-20260101|674|Gastos en operaciones de factoraje|01||||1
-20260101|6741|Pérdida en instrumentos vendidos|01||||1
-20260101|675|Descuentos concedidos por pronto pago|01||||1
-20260101|676|Diferencia de cambio|01||||1
-20260101|677|Pérdida por medición de activos y pasivos financieros al valor razonable|01||||1
-20260101|6771|Inversiones mantenidas para negociación|01||||1
-20260101|6772|Otras inversiones financieras|01||||1
-20260101|6773|Otros|01||||1
-20260101|678|Participación en resultados de entidades relacionadas|01||||1
-20260101|6781|Participación en los resultados de subsidiarias y asociadas bajo el método|01||||1
-20260101|6782|Participaciones en negocios conjuntos|01||||1
-20260101|679|Otros gastos financieros|01||||1
-20260101|6791|Primas por opciones|01||||1
-20260101|6792|Gastos financieros en medición a valor descontado|01||||1
-20260101|6793|Gastos financieros en actualización de activos por derecho de uso|01||||1
-20260101|681|Depreciación de propiedades de inversión|01||||1
-20260101|6811|Edificaciones|01||||1
-20260101|68111|Costo|01||||1
-20260101|68112|Revaluación|01||||1
-20260101|68113|Costo de financiación|01||||1
-20260101|682|Depreciación de activos por derec ho de uso - arrendamiento financiero|01||||1
-20260101|6821|Propiedades de inversión|01||||1
-20260101|68211|Edificaciones|01||||1
-20260101|682111|Costo|01||||1
-20260101|682112|Revaluación|01||||1
-20260101|682113|Costo de financiación|01||||1
-20260101|6822|Propiedad, planta y equipo|01||||1
-20260101|68221|Edificaciones|01||||1
-20260101|682211|Costo|01||||1
-20260101|682212|Revaluación|01||||1
-20260101|682213|Costo de financiación|01||||1
-20260101|68222|Maquinarias y equipos de explotación|01||||1
-20260101|682221|Costo|01||||1
-20260101|682222|Revaluación|01||||1
-20260101|682223|Costo de financiación|01||||1
-20260101|68223|Unidades de transporte|01||||1
-20260101|682231|Costo|01||||1
-20260101|68225|Equipos diversos|01||||1
-20260101|682251|Costo|01||||1
-20260101|682252|Revaluación|01||||1
-20260101|683|Depreciación de activos por derec ho de uso - arrendamiento operativo|01||||1
-20260101|6831|Depreciación de activos por derecho de uso - arrendamiento operativo|01||||1
-20260101|68311|Edificaciones|01||||1
-20260101|683111|Costo|01||||1
-20260101|683112|Revaluación|01||||1
-20260101|68312|Maquinarias y equipos de explotación|01||||1
-20260101|683121|Costo|01||||1
-20260101|683122|Revaluación|01||||1
-20260101|68313|Unidades de transporte|01||||1
-20260101|683131|Costo|01||||1
-20260101|683132|Revaluación|01||||1
-20260101|68315|Equipos diversos|01||||1
-20260101|683351|Costo|01||||1
-20260101|683152|Revaluación|01||||1
-20260101|684|Depreciación de propiedad, planta y equipo|01||||1
-20260101|6841|Depreciación de propiedad, planta y equipo - Costo|01||||1
-20260101|68410|Plantas productoras|01||||1
-20260101|68411|Edificaciones|01||||1
-20260101|68412|Maquinarias y equipos de explotación|01||||1
-20260101|68413|Unidades de transporte|01||||1
-20260101|68414|Muebles y enseres|01||||1
-20260101|68415|Equipos diversos|01||||1
-20260101|68416|Herramientas y unidades de reemplazo|01||||1
-20260101|6842|Depreciación de propiedad, planta y equipo - Revaluación|01||||1
-20260101|68420|Plantas productoras|01||||1
-20260101|68421|Edificaciones|01||||1
-20260101|68422|Maquinarias y equipos de explotación|01||||1
-20260101|68423|Unidades de transporte|01||||1
-20260101|68424|Muebles y enseres|01||||1
-20260101|68425|Equipos diversos|01||||1
-20260101|68426|Herramientas y unidades de reemplazo|01||||1
-20260101|6843|Depreciación de propiedad, planta y equipo - Costos de financiación|01||||1
-20260101|68430|Plantas productoras|01||||1
-20260101|68431|Edificaciones|01||||1
-20260101|68432|Maquinarias y equipos de explotación|01||||1
-20260101|685|Depreciación de activos biológicos en producción|01||||1
-20260101|6851|Depreciación de activos biológicos en producción - costo|01||||1
-20260101|68511|Activos biológicos de origen animal|01||||1
-20260101|68512|Activos biológicos de origen vegetal|01||||1
-20260101|6852|Depreciación de activos biológicos|01||||1
-20260101|68521|Activos biológicos de origen animal|01||||1
-20260101|68522|Activos biológicos de origen vegetal|01||||1
-20260101|686|Amortización de intangibles|01||||1
-20260101|6861|Amortización de intangibles – Costo|01||||1
-20260101|68611|Concesiones, licencias y otros derechos|01||||1
-20260101|68612|Patentes y propiedad industrial|01||||1
-20260101|68613|Programas de computadora ( software )|01||||1
-20260101|68614|Costos de exploración y desarrollo|01||||1
-20260101|68615|Fórmulas, diseños y prototipos|01||||1
-20260101|68619|Otros activos intangibles|01||||1
-20260101|6862|Amortización de intangibles – Revaluación|01||||1
-20260101|68621|Concesiones, licencias y otros derechos|01||||1
-20260101|68622|Patentes y propiedad industrial|01||||1
-20260101|68623|Programas de computadora ( software ) 68624 Costos de exploración y desarrollo|01||||1
-20260101|68625|Fórmulas, diseños y prototipos|01||||1
-20260101|68629|Otros activos intangibles|01||||1
-20260101|687|Valuación de activos|01||||1
-20260101|6871|Estimación de cuentas de cobranza dudosa|01||||1
-20260101|68711|Cuentas por cobrar comerciales – Terceros|01||||1
-20260101|68712|Cuentas por cobrar comerciales – Relacionadas|01||||1
-20260101|68713|Cuentas por cobrar al personal , a los accionistas (socios) y|01||||1
-20260101|68714|Cuentas por cobrar diversas – Terceros|01||||1
-20260101|68715|Cuentas por cobrar diversas – Relacionadas|01||||1
-20260101|6873|Desvalorización de inversiones mobiliarias|01||||1
-20260101|68731|Inversiones a ser mantenidas hasta el vencimiento|01||||1
-20260101|68732|Instrumentos financieros representativos de derecho|01||||1
-20260101|688|Deterioro del valor de los activos|01||||1
-20260101|6882|Desvalorización de propiedad de inversión|01||||1
-20260101|68812|Edificaciones|01||||1
-20260101|68813|Construcciones en curso|01||||1
-20260101|6882|Desvalorización de activos por derecho de uso - arrendamiento financiero 68820 Planta productora en producción|01||||1
-20260101|68821|Planta productora en desarrollo|01||||1
-20260101|68822|Terrenos 68823 Edificaciones|01||||1
-20260101|68824|Maquinarias y equipos de explotación|01||||1
-20260101|68825|Unidades de transporte|01||||1
-20260101|68826|Muebles y enseres|01||||1
-20260101|68827|Equipos diversos|01||||1
-20260101|68828|Herramientas y unidades de reemplazo|01||||1
-20260101|6883|Desvalorización de propiedad, planta y equipo|01||||1
-20260101|68830|Planta productora en producción|01||||1
-20260101|68831|Planta productora en desarrollo|01||||1
-20260101|68832|Terrenos|01||||1
-20260101|68833|Edificaciones|01||||1
-20260101|68834|Maquinarias y equipos de explotación|01||||1
-20260101|68835|Unidades de transporte|01||||1
-20260101|68836|Muebles y enseres|01||||1
-20260101|68837|Equipos diversos|01||||1
-20260101|68838|Herramientas y unidades de reemplazo|01||||1
-20260101|6884|Desvalorización de intangibles|01||||1
-20260101|68841|Concesiones, licencias y otros derechos|01||||1
-20260101|68842|Patentes y propiedad industrial|01||||1
-20260101|68843|Programas de computadora ( software )|01||||1
-20260101|68844|Costos de exploración y desarrollo|01||||1
-20260101|68845|Fórmulas, diseños y prototipos|01||||1
-20260101|68846|Otros activos intangibles|01||||1
-20260101|68847|Plusvalía mercantil|01||||1
-20260101|6889|Desvalorización de activos biológicos en producción|01||||1
-20260101|68891|Activos biológicos de origen animal|01||||1
-20260101|68892|Activos biológicos de origen vegetal|01||||1
-20260101|689|Provisiones|01||||1
-20260101|6891|Provisión para litigios|01||||1
-20260101|68911|Provisión para litigios – Costo|01||||1
-20260101|68912|Provisión para litigios – Actualización financiera|01||||1
-20260101|6892|Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado|01||||1
-20260101|68921|Provisión por desmantelamiento, retiro o rehabilitación del|01||||1
-20260101|68922|Provisión por desmantelamiento, retiro o rehabilitación del|01||||1
-20260101|6893|Provisión para reestructuraciones|01||||1
-20260101|6894|Provisión para protección y remediación del medio ambiente|01||||1
-20260101|68941|Provisión para protección y remediación del medio ambiente –|01||||1
-20260101|68942|Provisión para protección y remediación del medio ambiente –|01||||1
-20260101|6896|Provisión para garantías|01||||1
-20260101|68961|Provisión para garantías – Costo|01||||1
-20260101|68962|Provisión para garantías – Actualización financiera|01||||1
-20260101|6897|Provisión por activos por derecho de uso|01||||1
-20260101|68971|Provisión por activos por derecho de uso arrendamiento|01||||1
-20260101|68972|Provisión por activos por derecho de uso arrendamiento|01||||1
-20260101|6899|Otras provisiones|01||||1
-20260101|691|Mercaderías|01||||1
-20260101|6911|Mercaderías - exportación|01||||1
-20260101|69111|Terceros|01||||1
-20260101|69112|Relacionadas|01||||1
-20260101|6912|Mercaderías - venta local|01||||1
-20260101|69121|Terceros|01||||1
-20260101|69122|Relacionadas|01||||1
-20260101|692|Productos terminados|01||||1
-20260101|6921|Productos terminados - Exportación|01||||1
-20260101|69211|Terceros|01||||1
-20260101|69212|Relacionadas|01||||1
-20260101|6922|Productos terminados - Venta local|01||||1
-20260101|69221|Terceros 69222 Relacionadas|01||||1
-20260101|6923|Costos de financiación – Productos terminados|01||||1
-20260101|69231|Terceros 69232 Relacionadas|01||||1
-20260101|6924|Costos de producción no abs orbido – Productos terminados|01||||1
-20260101|6925|Costo de ineficiencia – Productos terminados|01||||1
-20260101|693|Servicios terminados|01||||1
-20260101|6931|Servicios – Exportación|01||||1
-20260101|69311|Terceros 69312 Relacionadas|01||||1
-20260101|6932|Servicios – local|01||||1
-20260101|69321|Terceros 69322 Relacionadas|01||||1
-20260101|694|Subproductos, desechos y desperdicios|01||||1
-20260101|6941|Subproductos|01||||1
-20260101|69411|Terceros|01||||1
-20260101|69412|Relacionadas|01||||1
-20260101|6942|Desechos y desperdicios|01||||1
-20260101|69421|Terceros|01||||1
-20260101|69422|Relacionadas|01||||1
-20260101|695|Gastos por desvalorización de inventarios al costo|01||||1
-20260101|6951|Mercaderías|01||||1
-20260101|6952|Productos terminados|01||||1
-20260101|6953|Subproductos, desechos y desperdicios|01||||1
-20260101|6954|Productos en proceso|01||||1
-20260101|6955|Materias primas|01||||1
-20260101|6956|Materiales auxiliares, suministros y repuestos|01||||1
-20260101|6957|Envases y embalajes|01||||1
-20260101|6958|Inventarios por recibir|01||||1
-20260101|701|Mercaderías|01||||1
-20260101|7011|Mercaderías - venta de exportación|01||||1
-20260101|70111|Terceros|01||||1
-20260101|70112|Relacionadas|01||||1
-20260101|7012|Mercaderías - venta local|01||||1
-20260101|70111|Terceros|01||||1
-20260101|70112|Relacionadas|01||||1
-20260101|702|Productos terminados|01||||1
-20260101|7021|Productos terminados - venta de exportación|01||||1
-20260101|70211|Terceros|01||||1
-20260101|70212|Relacionadas|01||||1
-20260101|7022|Productos terminados - venta local|01||||1
-20260101|70221|Terceros 70222 Relacionadas|01||||1
-20260101|703|Servicios terminados|01||||1
-20260101|7031|Servicios – exportación|01||||1
-20260101|70311|Terceros 70312 Relacionadas|01||||1
-20260101|7032|Servicios – local|01||||1
-20260101|70321|Terceros 70322 Relacionadas|01||||1
-20260101|704|Subproductos, desechos y desperdicios|01||||1
-20260101|7041|Subproductos|01||||1
-20260101|70411|Terceros 70412 Relacionadas|01||||1
-20260101|7042|Desechos y desperdicios|01||||1
-20260101|70421|Terceros 70422 Relacionadas|01||||1
-20260101|709|Devoluciones sobre ventas|01||||1
-20260101|7091|Mercaderías - Venta de exportación|01||||1
-20260101|70911|Terceros 70912 Relacionadas|01||||1
-20260101|7092|Mercaderías - Venta local|01||||1
-20260101|70921|Terceros|01||||1
-20260101|70922|Relacionadas|01||||1
-20260101|7093|Productos terminados - Venta de exportación|01||||1
-20260101|70931|Terceros 70932 Relacionadas|01||||1
-20260101|7094|Productos terminados - Venta local|01||||1
-20260101|70941|Terceros 70942 Relacionadas|01||||1
-20260101|7095|Inventarios de servicios rechazados|01||||1
-20260101|70951|Terceros 70952 Relacionadas|01||||1
-20260101|7096|Subproductos, desechos y desperdicios|01||||1
-20260101|70961|Terceros|01||||1
-20260101|70962|Relacionadas|01||||1
-20260101|711|Variación de productos terminados|01||||1
-20260101|7111|Productos terminados|01||||1
-20260101|712|Variación de subproductos, desechos y desperdicios|01||||1
-20260101|7121|Subproductos|01||||1
-20260101|7122|Desechos y desperdicios|01||||1
-20260101|713|Variación de productos en proceso|01||||1
-20260101|7131|Productos en proceso de manufactura|01||||1
-20260101|714|Variación de envases y embalajes|01||||1
-20260101|7141|Envases|01||||1
-20260101|7142|Embalajes|01||||1
-20260101|715|Variación de inventarios de servicios|01||||1
-20260101|7151|Inventarios de servicios en|01||||1
-20260101|721|Propiedades de inversión|01||||1
-20260101|7211|Edificaciones|01||||1
-20260101|722|Propiedad, planta y equipo|01||||1
-20260101|7220|Planta productora|01||||1
-20260101|7221|Edificaciones|01||||1
-20260101|7222|Maquinarias y otros equipos de explotación|01||||1
-20260101|7223|Unidades de transporte|01||||1
-20260101|7224|Muebles y enseres|01||||1
-20260101|7225|Equipos diversos|01||||1
-20260101|723|Intangibles|01||||1
-20260101|7231|Programas de computadora ( software ) 7232 Costos de exploración y desarrollo|01||||1
-20260101|7233|Fórmulas, diseños y prototipos|01||||1
-20260101|724|Activos biológicos|01||||1
-20260101|7241|Activos biológicos en desarrollo de origen animal|01||||1
-20260101|7242|Activos biológicos en desarrollo de origen vegetal|01||||1
-20260101|725|Costos de financiación capitalizados|01||||1
-20260101|7251|Costos de financiación – Propiedades de inversión|01||||1
-20260101|72511|Plantas productoras en desarrollo|01||||1
-20260101|72512|Edificaciones|01||||1
-20260101|7252|Costos de financiación – Propiedad, planta y equipo|01||||1
-20260101|72521|Plantas productoras en desarrollo|01||||1
-20260101|72522|Edificaciones|01||||1
-20260101|72523|Maquinarias y otros equipos de explotación|01||||1
-20260101|7253|Costos de financiación – Intangibles|01||||1
-20260101|7254|Costos de financiación – Activos biológicos en desarrollo|01||||1
-20260101|72541|Activos biológicos de origen animal|01||||1
-20260101|72542|Activos biológicos de origen vegetal|01||||1
-20260101|731|Descuentos, rebajas y bonificaciones obtenidos|01||||1
-20260101|7311|Terceros|01||||1
-20260101|7312|Relacionadas|01||||1
-20260101|741|Descuentos, rebajas y bonificaciones concedidos|01||||1
-20260101|7411|Terceros|01||||1
-20260101|7412|Relacionadas|01||||1
-20260101|751|Servicios en beneficio del personal|01||||1
-20260101|752|Comisiones y corretajes|01||||1
-20260101|753|Regalías|01||||1
-20260101|754|Alquileres|01||||1
-20260101|7540|Plantas productoras|01||||1
-20260101|7541|Terrenos|01||||1
-20260101|7542|Edificaciones|01||||1
-20260101|7543|Maquinarias y equipos de explotación|01||||1
-20260101|7544|Unidades de transporte|01||||1
-20260101|7545|Equipos diversos|01||||1
-20260101|755|Recuperación de cuentas de valuación|01||||1
-20260101|7551|Recuperación – Cuentas de cobranza dudosa|01||||1
-20260101|7552|Recuperación – Desvalorización de inventarios|01||||1
-20260101|7553|Recuperación – Desvalorización de inversiones mobiliarias|01||||1
-20260101|756|Enajenación de activos inmovilizados|01||||1
-20260101|7561|Inversiones mobiliarias|01||||1
-20260101|7562|Propiedades de inversión|01||||1
-20260101|7563|Activos adquiridos en arrendamiento financiero|01||||1
-20260101|7564|Propiedad, planta y equipo|01||||1
-20260101|7565|Intangibles 7566 Activos biológicos|01||||1
-20260101|757|Recuperación de deterioro de cuentas de activos inmovilizados|01||||1
-20260101|7571|Recuperación de deterioro de propiedades de inversión|01||||1
-20260101|7572|Recuperación de deterioro de propiedad, planta y equipo|01||||1
-20260101|7573|Recuperación de deterioro de intangibles|01||||1
-20260101|7574|Recuperación de deterioro de activos biológicos|01||||1
-20260101|759|Otros ingresos de gestión|01||||1
-20260101|7591|Subsidios gubernamentales|01||||1
-20260101|7592|Reclamos al seguro|01||||1
-20260101|7593|Donaciones|01||||1
-20260101|7594|Devoluciones tributarias|01||||1
-20260101|7599|Otros ingresos de gestión|01||||1
-20260101|761|Activo realizable|01||||1
-20260101|7611|Mercaderías|01||||1
-20260101|7612|Productos terminados|01||||1
-20260101|7613|Activos no corrientes mantenidos para la venta|01||||1
-20260101|76131|Propiedades de inversión|01||||1
-20260101|76132|Propiedad, planta y equipo|01||||1
-20260101|76133|Intangibles|01||||1
-20260101|76134|Activos biológicos|01||||1
-20260101|762|Activo inmovilizado|01||||1
-20260101|7621|Propiedades de inversión|01||||1
-20260101|7622|Activos biológicos|01||||1
-20260101|771|Ganancia por instrumento financiero derivado|01||||1
-20260101|772|Rendimientos ganados|01||||1
-20260101|7721|Depósitos en instituciones financieras|01||||1
-20260101|7722|Cuentas por cobrar comerciales|01||||1
-20260101|7723|Préstamos otorgados|01||||1
-20260101|7724|Inversiones a ser mantenidas hasta el vencimiento|01||||1
-20260101|7725|Instrumentos financieros representativos de derecho patrimonial|01||||1
-20260101|773|Dividendos|01||||1
-20260101|774|Ingresos en operaciones de factoraje|01||||1
-20260101|776|Diferencia en cambio|01||||1
-20260101|777|Ganancia por medición de activos y pasivos financieros al valor razonable|01||||1
-20260101|7771|Inversiones mantenidas para negociación|01||||1
-20260101|7772|Otras inversiones|01||||1
-20260101|7773|Otras|01||||1
-20260101|778|Participación en resultados de entidades relacionadas|01||||1
-20260101|7781|Participación en los resultados de subsidiarias y asociadas bajo el método|01||||1
-20260101|7782|Ingresos por participaciones en negocios conjuntos|01||||1
-20260101|779|Otros ingresos financieros|01||||1
-20260101|7792|Ingresos financieros en medición a valor descontado|01||||1
-20260101|781|Cargas cubiertas por provisiones|01||||1
-20260101|791|Cargas imputables a cuentas de costos y gastos|01||||1
-20260101|792|Gastos financieros imputables a cuentas de inventarios|01||||1
-20260101|801|Margen comercial|01||||1
-20260101|811|Producción de bienes|01||||1
-20260101|812|Producción de servicios|01||||1
-20260101|813|Producción de activo inmovilizado|01||||1
-20260101|821|Valor agregado|01||||1
-20260101|831|Excedente bruto (insuficiencia bruta) de explotación|01||||1
-20260101|841|Resultado de explotación|01||||1
-20260101|851|Resultado antes del impuesto a las ganancias|01||||1
-20260101|881|Impuesto a las ganancias – Corriente|01||||1
-20260101|882|Impuesto a las ganancias – Diferido|01||||1
-20260101|891|Utilidad|01||||1
-20260101|892|Pérdida|01||||1
+20260101|101|Caja|01||||1|
+20260101|102|Fondos fijos|01||||1|
+20260101|103|Efectivo y cheques en tránsito|01||||1|
+20260101|1031|Efectivo en tránsito|01||||1|
+20260101|1032|Cheques en tránsito|01||||1|
+20260101|104|Cuentas corrientes en instituciones financieras|01||||1|
+20260101|1041|Cuentas corrientes operativas|01||||1|
+20260101|1042|Cuentas corrientes para fines específicos|01||||1|
+20260101|105|Otros equivalentes de efectivo|01||||1|
+20260101|1051|Otro equivalentes de efectivo|01||||1|
+20260101|106|Depósitos en instituciones financieras|01||||1|
+20260101|1061|Depósitos de ahorro|01||||1|
+20260101|1062|Depósitos a plazo|01||||1|
+20260101|107|Fondos sujetos a restricción|01||||1|
+20260101|1071|Fondos en garantía|01||||1|
+20260101|1072|Fondos retenidos por mandato de la autoridad|01||||1|
+20260101|1073|Otros fondos sujetos a restricción|01||||1|
+20260101|111|Inversiones mantenidas para negociación|01||||1|
+20260101|1111|Valores emitidos o garantizados por el Estado|01||||1|
+20260101|11111|Costo|01||||1|
+20260101|11112|Valor Razonable|01||||1|
+20260101|1112|Valores emitidos por el sistema financiero|01||||1|
+20260101|11121|Costo|01||||1|
+20260101|11122|Valor Razonable|01||||1|
+20260101|1113|Valores emitidos por entidades|01||||1|
+20260101|11131|Costo|01||||1|
+20260101|11132|Valor Razonable|01||||1|
+20260101|1114|Otros títulos representativos de deuda|01||||1|
+20260101|11141|Costo|01||||1|
+20260101|11142|Valor Razonable|01||||1|
+20260101|1115|Participaciones en entidades|01||||1|
+20260101|11151|Costo|01||||1|
+20260101|11152|Valor Razonable|01||||1|
+20260101|112|Otras inversiones financieras|01||||1|
+20260101|1121|Otras inversiones financieras|01||||1|
+20260101|11211|Costo|01||||1|
+20260101|11212|Valor Razonable|01||||1|
+20260101|113|Activos financieros – Acuerdo de compra|01||||1|
+20260101|1131|Inversiones mantenidas para negociación – Acuerdo de compra|01||||1|
+20260101|11311|Costo|01||||1|
+20260101|11312|Valor Razonable|01||||1|
+20260101|1132|Otras inversiones financieras|01||||1|
+20260101|11321|Costo|01||||1|
+20260101|11322|Valor Razonable|01||||1|
+20260101|121|Facturas, boletas y otros comprobantes por cobrar|01||||1|
+20260101|1211|No emitidas|01||||1|
+20260101|1212|Emitidas en cartera|01||||1|
+20260101|1213|En cobranza|01||||1|
+20260101|1214|En descuento|01||||1|
+20260101|122|Anticipos de clientes|01||||1|
+20260101|123|Letras por cobrar|01||||1|
+20260101|1232|En cartera|01||||1|
+20260101|1233|En cobranza|01||||1|
+20260101|1234|En descuento|01||||1|
+20260101|131|Facturas, boletas y otros comprobantes por cobrar|01||||1|
+20260101|1311|No emitidas|01||||1|
+20260101|1312|En cartera|01||||1|
+20260101|1313|En cobranza|01||||1|
+20260101|1314|En descuento|01||||1|
+20260101|132|Anticipos recibidos|01||||1|
+20260101|1321|Anticipos recibidos|01||||1|
+20260101|133|Letras por cobrar|01||||1|
+20260101|1331|En cartera|01||||1|
+20260101|1332|En cobranza|01||||1|
+20260101|1333|En descuento|01||||1|
+20260101|1411|Préstamos|01||||1|
+20260101|1412|Adelanto de remuneraciones|01||||1|
+20260101|1413|Entregas a rendir cuenta|01||||1|
+20260101|1419|Otras cuentas por cobrar al personal|01||||1|
+20260101|142|Accionistas (o socios)|01||||1|
+20260101|1421|Suscripciones por cobrar a socios o accionistas|01||||1|
+20260101|1422|Préstamos|01||||1|
+20260101|143|Directores|01||||1|
+20260101|1431|Préstamos|01||||1|
+20260101|1432|Adelanto de dietas|01||||1|
+20260101|1433|Entregas a rendir cuenta|01||||1|
+20260101|149|Diversas|01||||1|
+20260101|161|Préstamos|01||||1|
+20260101|1611|Con garantía|01||||1|
+20260101|1612|Sin garantía|01||||1|
+20260101|162|Reclamaciones a terceros|01||||1|
+20260101|1621|Compañías aseguradoras|01||||1|
+20260101|1622|Transportadoras|01||||1|
+20260101|1623|Servicios públicos|01||||1|
+20260101|1624|Tributos 1629 Otras 163 Intereses, regalías y dividendos|01||||1|
+20260101|1631|Intereses|01||||1|
+20260101|1632|Regalías|01||||1|
+20260101|1633|Dividendos|01||||1|
+20260101|164|Depósitos otorgados en garantía|01||||1|
+20260101|1641|Préstamos de instituciones|01||||1|
+20260101|1642|Préstamos de instituciones no financieras|01||||1|
+20260101|1643|Depósitos en garantía por alquileres|01||||1|
+20260101|1649|Otros depósitos en garantía|01||||1|
+20260101|165|Venta de activo inmovilizado|01||||1|
+20260101|1651|Inversión mobiliaria|01||||1|
+20260101|1652|Propiedades de inversión|01||||1|
+20260101|1653|Propiedad, planta y equipo|01||||1|
+20260101|1654|Intangibles|01||||1|
+20260101|1655|Activos biológicos|01||||1|
+20260101|1659|Otros activos inmovilizados|01||||1|
+20260101|166|Activos por instrumentos financieros|01||||1|
+20260101|1661|Instrumentos financieros primarios|01||||1|
+20260101|16611|Costo|01||||1|
+20260101|16612|Valor razonable|01||||1|
+20260101|1662|Instrumentos financieros derivados|01||||1|
+20260101|16621|Costo|01||||1|
+20260101|16622|Valor razonable|01||||1|
+20260101|167|Tributos por acreditar|01||||1|
+20260101|1671|Pagos a cuenta del impuesto a la renta|01||||1|
+20260101|1672|Pagos a cuenta de ITAN|01||||1|
+20260101|1673|IGV por acreditar en compras|01||||1|
+20260101|1674|IGV por acreditar no domiciliados|01||||1|
+20260101|1675|Obras por impuestos|01||||1|
+20260101|169|Otras cuentas por cobrar diversas|01||||1|
+20260101|1691|Entregas a rendir cuenta a terceros|01||||1|
+20260101|1699|Otras cuentas por cobrar diversas|01||||1|
+20260101|171|Préstamos|01||||1|
+20260101|1711|Con garantía|01||||1|
+20260101|1712|Sin garantía|01||||1|
+20260101|173|Intereses, regalías y dividendos|01||||1|
+20260101|1731|Intereses|01||||1|
+20260101|1732|Regalías|01||||1|
+20260101|1733|Dividendos|01||||1|
+20260101|174|Depósitos otorgados en garantía|01||||1|
+20260101|1741|Préstamos de instituciones|01||||1|
+20260101|1742|Préstamos de instituciones no financieras|01||||1|
+20260101|1743|Depósitos en garantía por alquileres|01||||1|
+20260101|1749|Otros depósitos en garantía|01||||1|
+20260101|175|Venta de activo inmovilizado|01||||1|
+20260101|1751|Inversión mobiliaria|01||||1|
+20260101|1752|Propiedades de inversión|01||||1|
+20260101|1753|Propiedad, planta y equipo|01||||1|
+20260101|1754|Intangibles 1755 Activos biológicos|01||||1|
+20260101|1759|Otros activos inmovilizados|01||||1|
+20260101|176|Activos por instrumentos financieros|01||||1|
+20260101|1761|Instrumentos financieros primarios|01||||1|
+20260101|17611|Costo|01||||1|
+20260101|17612|Valor razonable|01||||1|
+20260101|1762|Instrumentos financieros derivados|01||||1|
+20260101|17621|Costo|01||||1|
+20260101|17622|Valor razonable|01||||1|
+20260101|179|Otras cuentas por cobrar diversas|01||||1|
+20260101|181|Costos financieros|01||||1|
+20260101|182|Seguros 183 Alquileres|01||||1|
+20260101|184|Primas pagadas por opciones|01||||1|
+20260101|185|Mantenimiento de activos inmovilizados|01||||1|
+20260101|189|Otros gastos contratados por anticipado|01||||1|
+20260101|191|Cuentas por cobrar comerciales – Terceros|01||||1|
+20260101|1911|Facturas, boletas y otros comprobantes por cobrar|01||||1|
+20260101|1913|Letras por cobrar|01||||1|
+20260101|192|Cuentas por cobrar comerciales – Relacionadas|01||||1|
+20260101|1921|Facturas, boletas y otros comprobantes por cobrar|01||||1|
+20260101|1923|Letras por cobrar|01||||1|
+20260101|193|Cuentas por cobrar al personal, a los accionistas (socios) y|01||||1|
+20260101|1931|Personal|01||||1|
+20260101|1932|Accionistas (o socios)|01||||1|
+20260101|1933|Directores|01||||1|
+20260101|1939|Diversas|01||||1|
+20260101|194|Cuentas por cobrar diversas – Terceros|01||||1|
+20260101|1941|Préstamos|01||||1|
+20260101|1942|Reclamaciones a terceros|01||||1|
+20260101|1943|Intereses, regalías y dividendos|01||||1|
+20260101|1944|Depósitos otorgados en garantía|01||||1|
+20260101|1945|Venta de activo inmovilizado|01||||1|
+20260101|1946|Activos por instrumentos financieros|01||||1|
+20260101|1949|Otras cuentas por cobrar diversas|01||||1|
+20260101|195|Cuentas por cobrar diversas – Relacionadas|01||||1|
+20260101|1951|Préstamos|01||||1|
+20260101|1953|Intereses, regalías y dividendos|01||||1|
+20260101|1954|Depósitos otorgados en garantía|01||||1|
+20260101|1955|Venta de activo inmovilizado|01||||1|
+20260101|1956|Activos por instrumentos financieros|01||||1|
+20260101|1959|Otras cuentas por cobrar diversas|01||||1|
+20260101|201|Mercaderías|01||||1|
+20260101|2011|Mercaderías|01||||1|
+20260101|20111|Costo|01||||1|
+20260101|20114|Valor razonable|01||||1|
+20260101|211|Productos terminados|01||||1|
+20260101|2111|Productos terminados|01||||1|
+20260101|21111|Costo|01||||1|
+20260101|21113|Costo de financiación|01||||1|
+20260101|21114|Valor razonable|01||||1|
+20260101|215|Inventario de servicios terminados|01||||1|
+20260101|2151|Servicios terminados|01||||1|
+20260101|21511|Costo|01||||1|
+20260101|221|Subproductos|01||||1|
+20260101|222|Desechos y desperdicios|01||||1|
+20260101|231|Productos en proceso|01||||1|
+20260101|2311|Productos en proceso|01||||1|
+20260101|23111|Costo|01||||1|
+20260101|23113|Costo de financiación|01||||1|
+20260101|235|Inventario de servicios en proceso|01||||1|
+20260101|2351|Servicios en proceso|01||||1|
+20260101|23511|Costo|01||||1|
+20260101|241|Materias primas|01||||1|
+20260101|2411|Materias primas|01||||1|
+20260101|24111|Costo|01||||1|
+20260101|24114|Valor razonable|01||||1|
+20260101|251|Materiales auxiliares|01||||1|
+20260101|252|Suministros|01||||1|
+20260101|2521|Combustibles|01||||1|
+20260101|2522|Lubricantes|01||||1|
+20260101|2523|Energía 2524 Otros suministros|01||||1|
+20260101|253|Repuestos|01||||1|
+20260101|261|Envases|01||||1|
+20260101|262|Embalajes|01||||1|
+20260101|271|Propiedades de inversión|01||||1|
+20260101|2711|Terrenos|01||||1|
+20260101|27111|Costo|01||||1|
+20260101|27112|Revaluación|01||||1|
+20260101|27114|Valor razonable|01||||1|
+20260101|2712|Edificaciones|01||||1|
+20260101|27121|Costo|01||||1|
+20260101|27122|Revaluación|01||||1|
+20260101|27123|Costos de financiación|01||||1|
+20260101|27124|Valor razonable|01||||1|
+20260101|272|Propiedad, planta y equipo|01||||1|
+20260101|2720|Planta productora en producción|01||||1|
+20260101|27201|Costo|01||||1|
+20260101|27202|Revaluación|01||||1|
+20260101|27203|Costo de financiación|01||||1|
+20260101|27204|Valor razonable|01||||1|
+20260101|2721|Planta productora en desarrollo|01||||1|
+20260101|27211|Costo|01||||1|
+20260101|27212|Revaluación|01||||1|
+20260101|27213|Costo de financiación|01||||1|
+20260101|27214|Valor razonable|01||||1|
+20260101|2722|Terrenos|01||||1|
+20260101|27221|Costo|01||||1|
+20260101|27222|Revaluación|01||||1|
+20260101|2723|Edificaciones|01||||1|
+20260101|27231|Costo|01||||1|
+20260101|27232|Revaluación|01||||1|
+20260101|27233|Costo de financiación|01||||1|
+20260101|2724|Maquinarias y equipos de explotación|01||||1|
+20260101|27241|Costo|01||||1|
+20260101|27242|Revaluación|01||||1|
+20260101|27233|Costo de financiación|01||||1|
+20260101|2725|Unidades de transporte|01||||1|
+20260101|27251|Costo|01||||1|
+20260101|27252|Revaluación|01||||1|
+20260101|2726|Muebles y enseres|01||||1|
+20260101|27261|Costo|01||||1|
+20260101|27262|Revaluación|01||||1|
+20260101|2727|Equipos diversos|01||||1|
+20260101|27271|Costo|01||||1|
+20260101|27272|Revaluación|01||||1|
+20260101|2728|Herramientas y unidades de reemplazo|01||||1|
+20260101|27281|Costo|01||||1|
+20260101|27282|Revaluación|01||||1|
+20260101|2729|Obras en curso|01||||1|
+20260101|27291|Costo|01||||1|
+20260101|27292|Revaluación|01||||1|
+20260101|273|Intangibles|01||||1|
+20260101|2731|Concesiones, licencias y derechos|01||||1|
+20260101|27311|Costo|01||||1|
+20260101|27312|Revaluación|01||||1|
+20260101|2732|Patentes y propiedad industrial|01||||1|
+20260101|27321|Costo|01||||1|
+20260101|27322|Revaluación|01||||1|
+20260101|2733|Programas de computadora|01||||1|
+20260101|27331|Costo|01||||1|
+20260101|27332|Revaluación|01||||1|
+20260101|2734|Costos de exploración y desarrollo|01||||1|
+20260101|27341|Costo|01||||1|
+20260101|27342|Revaluación|01||||1|
+20260101|2735|Fórmulas, diseños y prototipos|01||||1|
+20260101|27351|Costo|01||||1|
+20260101|27352|Revaluación|01||||1|
+20260101|2739|Otros activos intangibles|01||||1|
+20260101|27391|Costo|01||||1|
+20260101|27392|Revaluación|01||||1|
+20260101|274|Activos biológicos|01||||1|
+20260101|2741|Activos biológicos en producción|01||||1|
+20260101|27411|Costo|01||||1|
+20260101|27413|Costos de financiación|01||||1|
+20260101|27414|Valor razonable|01||||1|
+20260101|2742|Activos biológicos en desarrollo|01||||1|
+20260101|27421|Costo|01||||1|
+20260101|27423|Costos de financiación|01||||1|
+20260101|27424|Valor razonable|01||||1|
+20260101|275|Depreciación acumulada – Propiedades de inversión|01||||1|
+20260101|2752|Edificaciones|01||||1|
+20260101|27521|Costo|01||||1|
+20260101|27522|Revaluación|01||||1|
+20260101|27523|Costo de financiación|01||||1|
+20260101|276|Depreciación acumulada – Propiedad, planta y equipo|01||||1|
+20260101|2760|Planta productora en producción|01||||1|
+20260101|27601|Costo|01||||1|
+20260101|27602|Revaluación|01||||1|
+20260101|27603|Costo de financiación|01||||1|
+20260101|27604|Valor razonable|01||||1|
+20260101|2762|Edificaciones|01||||1|
+20260101|27621|Costo|01||||1|
+20260101|27622|Revaluación|01||||1|
+20260101|27623|Costo de financiación|01||||1|
+20260101|2763|Maquinarias y equipo de explotación|01||||1|
+20260101|27631|Costo|01||||1|
+20260101|27632|Revaluación|01||||1|
+20260101|27633|Costo de financiación|01||||1|
+20260101|2764|Unidades de transporte|01||||1|
+20260101|27641|Costo|01||||1|
+20260101|27642|Revaluación|01||||1|
+20260101|2765|Muebles y enseres|01||||1|
+20260101|27651|Costo|01||||1|
+20260101|27652|Revaluación|01||||1|
+20260101|2766|Equipos diversos|01||||1|
+20260101|27661|Costo|01||||1|
+20260101|27662|Revaluación|01||||1|
+20260101|2767|Herramientas y unidades de reemplazo|01||||1|
+20260101|27671|Costo|01||||1|
+20260101|27672|Revaluación|01||||1|
+20260101|277|Amortización acumulada – Intangibles|01||||1|
+20260101|2771|Concesiones, licencias y derechos|01||||1|
+20260101|27711|Costo|01||||1|
+20260101|27712|Revaluación|01||||1|
+20260101|2772|Patentes y propiedad industrial|01||||1|
+20260101|27721|Costo|01||||1|
+20260101|27722|Revaluación|01||||1|
+20260101|2773|Programas de computadora (software)|01||||1|
+20260101|27731|Costo|01||||1|
+20260101|27732|Revaluación|01||||1|
+20260101|2774|Costos de exploración y desarrollo|01||||1|
+20260101|27741|Costo|01||||1|
+20260101|27742|Revaluación|01||||1|
+20260101|2775|Fórmulas, diseños y prototipos|01||||1|
+20260101|27751|Costo|01||||1|
+20260101|27752|Revaluación|01||||1|
+20260101|2779|Otros activos intangibles|01||||1|
+20260101|27791|Costo|01||||1|
+20260101|27792|Revaluación|01||||1|
+20260101|278|Depreciación acumulada – Activos biológicos|01||||1|
+20260101|2781|Activos biológicos en producción|01||||1|
+20260101|27811|Costo|01||||1|
+20260101|27813|Costo de financiación|01||||1|
+20260101|2782|Activos biológicos en desarrollo|01||||1|
+20260101|27821|Costo|01||||1|
+20260101|27823|Costo de financiación|01||||1|
+20260101|279|Desvalorización acumulada|01||||1|
+20260101|2791|Propiedad de inversión|01||||1|
+20260101|27910|Planta productora en producción|01||||1|
+20260101|27911|Planta productora en desarrollo|01||||1|
+20260101|27912|Terrenos 27913 Edificaciones|01||||1|
+20260101|2793|Propiedad, planta y equipo|01||||1|
+20260101|27930|Plantas productoras en producción|01||||1|
+20260101|27931|Planta productora en desarrollo|01||||1|
+20260101|27932|Terrenos 27933 Edificaciones|01||||1|
+20260101|27934|Maquinarias y equipos de explotación|01||||1|
+20260101|27935|Unidades de transporte|01||||1|
+20260101|27936|Muebles y enseres|01||||1|
+20260101|27937|Equipos diversos|01||||1|
+20260101|27938|Herramientas y unidades de reemplazo|01||||1|
+20260101|2794|Intangibles|01||||1|
+20260101|27941|Concesiones, licencias y otros derechos|01||||1|
+20260101|27942|Patentes y propiedad industrial|01||||1|
+20260101|27943|Programas de computadora (software)|01||||1|
+20260101|27944|Costos de exploración y desarrollo|01||||1|
+20260101|27945|Fórmulas, diseños y prototipos|01||||1|
+20260101|27949|Otros activos intangibles|01||||1|
+20260101|2795|Activos biológicos|01||||1|
+20260101|27951|Activos biológicos en producción|01||||1|
+20260101|27952|Activos biológicos en desarrollo|01||||1|
+20260101|281|Mercaderías|01||||1|
+20260101|284|Materias primas|01||||1|
+20260101|285|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|286|Envases y embalajes|01||||1|
+20260101|291|Mercaderías|01||||1|
+20260101|2911|Mercaderías|01||||1|
+20260101|29111|Costo|01||||1|
+20260101|292|Productos terminados|01||||1|
+20260101|2921|Productos terminados|01||||1|
+20260101|29211|Costo|01||||1|
+20260101|29213|Costo de financiación|01||||1|
+20260101|2925|Inventario de servicios terminados|01||||1|
+20260101|29251|Costo|01||||1|
+20260101|293|Subproductos, desechos y desperdicios|01||||1|
+20260101|2931|Subproductos|01||||1|
+20260101|2932|Desechos y desperdicios|01||||1|
+20260101|294|Productos en proceso|01||||1|
+20260101|2941|Productos en proceso|01||||1|
+20260101|29411|Costo|01||||1|
+20260101|29413|Costo de financiación|01||||1|
+20260101|2945|Inventario de servicios en proceso|01||||1|
+20260101|295|Materias primas|01||||1|
+20260101|2951|Materias primas|01||||1|
+20260101|29511|Costo|01||||1|
+20260101|296|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|2961|Materiales auxiliares|01||||1|
+20260101|2962|Suministros|01||||1|
+20260101|2963|Repuestos|01||||1|
+20260101|297|Envases y embalajes|01||||1|
+20260101|2971|Envases|01||||1|
+20260101|2972|Embalajes|01||||1|
+20260101|298|Existencias por recibir|01||||1|
+20260101|2981|Mercaderías|01||||1|
+20260101|2982|Materias primas|01||||1|
+20260101|2983|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|2984|Envases y embalajes|01||||1|
+20260101|301|Inversiones a ser mantenidas hasta el vencimiento|01||||1|
+20260101|3011|Instrumentos financieros representativos de deuda|01||||1|
+20260101|30221|Costo|01||||1|
+20260101|30224|Valor razonable|01||||1|
+20260101|302|Instrumentos financieros representativos de derecho patrimonial|01||||1|
+20260101|3021|Certificados de suscripción preferente|01||||1|
+20260101|3022|Acciones representativas de capital social – Comunes|01||||1|
+20260101|30221|Costo|01||||1|
+20260101|30224|Valor razonable|01||||1|
+20260101|30225|Participación patrimonial|01||||1|
+20260101|3023|Acciones representativas de capital social – Preferentes|01||||1|
+20260101|30231|Costo|01||||1|
+20260101|30234|Valor razonable|01||||1|
+20260101|30235|Participación patrimonial|01||||1|
+20260101|3024|Acciones de inversión|01||||1|
+20260101|30241|Costo|01||||1|
+20260101|30244|Valor razonable|01||||1|
+20260101|30245|Participación patrimonial|01||||1|
+20260101|3028|Otros títulos representativos de patrimonio|01||||1|
+20260101|30281|Costo|01||||1|
+20260101|30284|Valor razonable|01||||1|
+20260101|30285|Participación patrimonial|01||||1|
+20260101|303|Certificados de participación en fondos - Cuotas|01||||1|
+20260101|3031|Fondos de inversión|01||||1|
+20260101|30311|Costo|01||||1|
+20260101|30314|Valor razonable|01||||1|
+20260101|3032|Fondos mutuos|01||||1|
+20260101|30321|Costo|01||||1|
+20260101|30324|Valor razonable|01||||1|
+20260101|304|Participaciones en acuerdos conjuntos|01||||1|
+20260101|3041|Operaciones conjuntas|01||||1|
+20260101|30411|Costo|01||||1|
+20260101|30414|Valor razonable|01||||1|
+20260101|30415|Participación patrimonial|01||||1|
+20260101|3042|Negocios conjuntos|01||||1|
+20260101|30421|Costo|01||||1|
+20260101|30424|Valor razonable|01||||1|
+20260101|30425|Participación patrimonial|01||||1|
+20260101|308|Inversiones mobiliarias – Acuerdos de compra|01||||1|
+20260101|3081|Instrumentos financieros representativos de deuda – Acuerdo de compra|01||||1|
+20260101|30811|Costo|01||||1|
+20260101|30814|Valor razonable|01||||1|
+20260101|3082|Instrumentos financieros representativos de derecho patrimonial –|01||||1|
+20260101|30821|Costo|01||||1|
+20260101|30824|Valor razonable|01||||1|
+20260101|311|Terrenos|01||||1|
+20260101|3111|Urbanos|01||||1|
+20260101|31111|Costo|01||||1|
+20260101|31112|Revaluación|01||||1|
+20260101|31114|Valor razonable|01||||1|
+20260101|3112|Rurales|01||||1|
+20260101|31121|Costo|01||||1|
+20260101|31122|Revaluación|01||||1|
+20260101|31124|Valor razonable|01||||1|
+20260101|312|Edificaciones|01||||1|
+20260101|3121|Edificaciones|01||||1|
+20260101|31211|Costo|01||||1|
+20260101|31212|Revaluación|01||||1|
+20260101|31213|Costos de financiación|01||||1|
+20260101|31214|Valor razonable|01||||1|
+20260101|313|Construcciones en curso|01||||1|
+20260101|3131|Edificaciones|01||||1|
+20260101|31311|Costo|01||||1|
+20260101|31312|Revaluación|01||||1|
+20260101|31313|Costos de financiación|01||||1|
+20260101|31314|Valor razonable|01||||1|
+20260101|321|Propiedades de inversión - Arrendamiento financiero|01||||1|
+20260101|3211|Terrenos|01||||1|
+20260101|32111|Costo|01||||1|
+20260101|32112|Revaluación|01||||1|
+20260101|32114|Valor razonable|01||||1|
+20260101|3212|Edificaciones|01||||1|
+20260101|32121|Costo|01||||1|
+20260101|32122|Revaluación|01||||1|
+20260101|32123|Costo de financiación|01||||1|
+20260101|32124|Valor razonable|01||||1|
+20260101|322|Propiedad, planta y equipo - Arrendamiento financiero|01||||1|
+20260101|3220|Planta productora en producción|01||||1|
+20260101|32201|Costo|01||||1|
+20260101|32202|Revaluación|01||||1|
+20260101|32203|Costo de financiación|01||||1|
+20260101|3221|Planta productora en desarrollo|01||||1|
+20260101|32211|Costo|01||||1|
+20260101|32212|Revaluación|01||||1|
+20260101|32213|Costo de financiación|01||||1|
+20260101|3222|Terrenos|01||||1|
+20260101|32221|Costo|01||||1|
+20260101|32222|Revaluación|01||||1|
+20260101|3223|Edificaciones|01||||1|
+20260101|32231|Costo|01||||1|
+20260101|32232|Revaluación|01||||1|
+20260101|32233|Costo de financiación|01||||1|
+20260101|3224|Maquinaria y equipo de explotación|01||||1|
+20260101|32241|Costo|01||||1|
+20260101|32242|Revaluación|01||||1|
+20260101|32243|Costo de financiación|01||||1|
+20260101|3225|Unidades de transporte|01||||1|
+20260101|32251|Costo|01||||1|
+20260101|32252|Revaluación|01||||1|
+20260101|3226|Muebles y enseres|01||||1|
+20260101|32261|Costo|01||||1|
+20260101|32262|Revaluación|01||||1|
+20260101|3227|Equipos diversos|01||||1|
+20260101|32271|Costo|01||||1|
+20260101|32272|Revaluación|01||||1|
+20260101|3228|Herramientas y unidades de reemplazo|01||||1|
+20260101|32281|Costo|01||||1|
+20260101|32282|Revaluación|01||||1|
+20260101|323|Propiedad, planta y equipo - Arrendamiento operativo|01||||1|
+20260101|3230|Planta productora en producción|01||||1|
+20260101|32301|Costo|01||||1|
+20260101|32302|Revaluación|01||||1|
+20260101|3232|Terrenos|01||||1|
+20260101|32321|Costo|01||||1|
+20260101|3233|Edificaciones|01||||1|
+20260101|32331|Costo|01||||1|
+20260101|32332|Revaluación|01||||1|
+20260101|3234|Maquinaria y equipo de explotación|01||||1|
+20260101|32341|Costo|01||||1|
+20260101|32342|Revaluación|01||||1|
+20260101|3235|Unidades de transporte|01||||1|
+20260101|32351|Costo|01||||1|
+20260101|32352|Revaluación|01||||1|
+20260101|3236|Equipos diversos|01||||1|
+20260101|32361|Costo|01||||1|
+20260101|32362|Revaluación|01||||1|
+20260101|330|Planta productora|01||||1|
+20260101|3301|Planta productora en producción|01||||1|
+20260101|33011|Costo|01||||1|
+20260101|33012|Revaluación|01||||1|
+20260101|33013|Costo de financiación|01||||1|
+20260101|33014|Valor razonable|01||||1|
+20260101|3302|Planta productora en desarrollo|01||||1|
+20260101|33021|Costo|01||||1|
+20260101|33022|Revaluación|01||||1|
+20260101|33023|Costo de financiación|01||||1|
+20260101|33024|Valor razonable|01||||1|
+20260101|331|Terrenos|01||||1|
+20260101|3311|Terrenos|01||||1|
+20260101|33111|Costo|01||||1|
+20260101|33112|Revaluación|01||||1|
+20260101|332|Edificaciones|01||||1|
+20260101|3321|Edificaciones|01||||1|
+20260101|33211|Costo|01||||1|
+20260101|33212|Revaluación|01||||1|
+20260101|33213|Costo de financiación|01||||1|
+20260101|3324|Instalaciones|01||||1|
+20260101|33241|Costo|01||||1|
+20260101|33242|Revaluación|01||||1|
+20260101|33243|Costo de financiación|01||||1|
+20260101|3325|Mejoras en locales arrendados.|01||||1|
+20260101|33251|Costo|01||||1|
+20260101|33252|Revaluación|01||||1|
+20260101|33253|Costo de Financiación|01||||1|
+20260101|333|Maquinaria y equipo de explotación|01||||1|
+20260101|3331|Maquinaria y equipo de explotación|01||||1|
+20260101|33311|Costo|01||||1|
+20260101|33312|Revaluación|01||||1|
+20260101|33313|Costo de financiación|01||||1|
+20260101|334|Unidades de transporte|01||||1|
+20260101|3341|Vehículos motorizados|01||||1|
+20260101|33411|Costo|01||||1|
+20260101|33412|Revaluación|01||||1|
+20260101|3342|Vehículos no motorizados|01||||1|
+20260101|33421|Costo|01||||1|
+20260101|33422|Revaluación|01||||1|
+20260101|335|Muebles y enseres|01||||1|
+20260101|3351|Muebles|01||||1|
+20260101|33511|Costo|01||||1|
+20260101|33512|Revaluación|01||||1|
+20260101|3352|Enseres|01||||1|
+20260101|33521|Costo|01||||1|
+20260101|33522|Revaluación|01||||1|
+20260101|336|Equipos diversos|01||||1|
+20260101|3361|Equipo para procesamiento de información|01||||1|
+20260101|33611|Costo|01||||1|
+20260101|33612|Revaluación|01||||1|
+20260101|3362|Equipo de comunicación|01||||1|
+20260101|33621|Costo|01||||1|
+20260101|33622|Revaluación|01||||1|
+20260101|3363|Equipo de seguridad|01||||1|
+20260101|33631|Costo|01||||1|
+20260101|33632|Revaluación|01||||1|
+20260101|3364|Equipo de medio ambiente|01||||1|
+20260101|33641|Costo|01||||1|
+20260101|33642|Revaluación|01||||1|
+20260101|3369|Otros equipos|01||||1|
+20260101|33691|Costo|01||||1|
+20260101|33692|Revaluación|01||||1|
+20260101|337|Herramientas y unidades de reemplazo|01||||1|
+20260101|3371|Herramientas|01||||1|
+20260101|33711|Costo|01||||1|
+20260101|33712|Revaluación|01||||1|
+20260101|3372|Unidades de reemplazo|01||||1|
+20260101|33721|Costo|01||||1|
+20260101|33722|Revaluación|01||||1|
+20260101|338|Unidades por recibir|01||||1|
+20260101|3381|Maquinaria y equipo de explotación|01||||1|
+20260101|3382|Equipo de transporte|01||||1|
+20260101|3383|Muebles y enseres|01||||1|
+20260101|3386|Equipos diversos|01||||1|
+20260101|3387|Herramientas y unidades de reemplazo|01||||1|
+20260101|339|Obras en curso|01||||1|
+20260101|3391|Adecuación de terrenos|01||||1|
+20260101|3392|Edificaciones en curso|01||||1|
+20260101|33921|Costo|01||||1|
+20260101|33922|Costo de financiación|01||||1|
+20260101|3393|Maquinaria en montaje|01||||1|
+20260101|33931|Costo|01||||1|
+20260101|33932|Costo de financiación|01||||1|
+20260101|341|Concesiones, licencias y otros derechos|01||||1|
+20260101|3411|Derechos por concesiones|01||||1|
+20260101|34111|Costo|01||||1|
+20260101|34112|Revaluación|01||||1|
+20260101|3412|Licencias|01||||1|
+20260101|34121|Costo|01||||1|
+20260101|34122|Revaluación|01||||1|
+20260101|3419|Otros derechos|01||||1|
+20260101|34191|Costo|01||||1|
+20260101|34192|Revaluación|01||||1|
+20260101|342|Patentes y propiedad industrial|01||||1|
+20260101|3421|Patentes|01||||1|
+20260101|34211|Costo|01||||1|
+20260101|34212|Revaluación|01||||1|
+20260101|3422|Marcas|01||||1|
+20260101|34221|Costo|01||||1|
+20260101|34222|Revaluación|01||||1|
+20260101|343|Programas de computadora ( software ) 3431 Aplicaciones informáticas|01||||1|
+20260101|34311|Costo|01||||1|
+20260101|34312|Revaluación|01||||1|
+20260101|344|Costos de exploración y desarrollo|01||||1|
+20260101|3441|Costos de exploración|01||||1|
+20260101|34411|Costo|01||||1|
+20260101|34412|Revaluación|01||||1|
+20260101|34413|Costo de financiación|01||||1|
+20260101|3442|Costos de desarrollo|01||||1|
+20260101|34421|Costo|01||||1|
+20260101|34422|Revaluación|01||||1|
+20260101|34423|Costo de financiación|01||||1|
+20260101|345|Fórmulas, diseños y prototipos|01||||1|
+20260101|3451|Fórmulas|01||||1|
+20260101|34511|Costo|01||||1|
+20260101|34512|Revaluación|01||||1|
+20260101|3452|Diseños y prototipos|01||||1|
+20260101|34521|Costo|01||||1|
+20260101|34522|Revaluación|01||||1|
+20260101|347|Plusvalía mercantil|01||||1|
+20260101|3471|Plusvalía mercantil|01||||1|
+20260101|349|Otros activos intangibles|01||||1|
+20260101|3491|Otros activos intangibles|01||||1|
+20260101|34911|Costo|01||||1|
+20260101|34912|Revaluación|01||||1|
+20260101|351|Activos biológicos en producción|01||||1|
+20260101|3511|De origen animal|01||||1|
+20260101|35111|Costo|01||||1|
+20260101|35113|Costo de financiación|01||||1|
+20260101|35114|Valor razonable|01||||1|
+20260101|3512|De origen vegetal|01||||1|
+20260101|35121|Costo|01||||1|
+20260101|35123|Costo de financiación|01||||1|
+20260101|35124|Valor razonable|01||||1|
+20260101|352|Activos biológicos en desarrollo|01||||1|
+20260101|3521|De origen animal|01||||1|
+20260101|35211|Costo|01||||1|
+20260101|35213|Costo de financiación|01||||1|
+20260101|35214|Valor razonable|01||||1|
+20260101|3522|De origen vegetal|01||||1|
+20260101|35221|Costo|01||||1|
+20260101|35223|Costo de financiación|01||||1|
+20260101|35224|Valor razonable|01||||1|
+20260101|361|Desvalorización de propiedades de inversión|01||||1|
+20260101|3611|Terrenos|01||||1|
+20260101|36111|Costo|01||||1|
+20260101|36112|Revaluación|01||||1|
+20260101|3612|Edificaciones|01||||1|
+20260101|36121|Costo|01||||1|
+20260101|36122|Revaluación|01||||1|
+20260101|36123|Costo de financiación|01||||1|
+20260101|3613|Construcciones en curso - edificaciones|01||||1|
+20260101|36131|Costo|01||||1|
+20260101|36132|Revaluación|01||||1|
+20260101|36133|Costo de financiación|01||||1|
+20260101|362|Desvalorización de propiedades de inversión - Arrendamiento financiero|01||||1|
+20260101|3621|Terrenos|01||||1|
+20260101|36211|Costo|01||||1|
+20260101|36212|Revaluación|01||||1|
+20260101|3622|Edificaciones|01||||1|
+20260101|36221|Costo|01||||1|
+20260101|36222|Revaluación|01||||1|
+20260101|36223|Costo de financiación|01||||1|
+20260101|363|Desvalorización de propiedad, planta y equipo - Arrendamiento financiero|01||||1|
+20260101|3631|Terrenos|01||||1|
+20260101|36311|Costo|01||||1|
+20260101|36312|Revaluación|01||||1|
+20260101|3632|Edificaciones|01||||1|
+20260101|36321|Costo|01||||1|
+20260101|36322|Revaluación|01||||1|
+20260101|36323|Costo de financiación|01||||1|
+20260101|3633|Maquinaria y equipo de explotación|01||||1|
+20260101|36331|Costo|01||||1|
+20260101|36332|Revaluación|01||||1|
+20260101|36333|Costo de financiación|01||||1|
+20260101|3634|Unidades de transporte|01||||1|
+20260101|36341|Costo|01||||1|
+20260101|36342|Revaluación|01||||1|
+20260101|3635|Muebles y enseres|01||||1|
+20260101|36351|Costo|01||||1|
+20260101|36352|Revaluación|01||||1|
+20260101|3636|Equipos diversos|01||||1|
+20260101|36361|Costo|01||||1|
+20260101|36362|Revaluación|01||||1|
+20260101|364|Desvalorización de propiedad, planta y equipo|01||||1|
+20260101|3640|Planta productora en producción|01||||1|
+20260101|36401|Costo|01||||1|
+20260101|36402|Planta productora en producción - Revaluación|01||||1|
+20260101|36403|Planta productora en producción - Costo de financiación|01||||1|
+20260101|33404|Planta productora en producción - Valor razonable|01||||1|
+20260101|36405|Planta productora en desarrollo - Costo|01||||1|
+20260101|36406|Planta productora en desarrollo - Revaluación|01||||1|
+20260101|36407|Planta productora en desarrollo - Costo de financiación|01||||1|
+20260101|36408|Planta productora en desarrollo - Valor razonable|01||||1|
+20260101|3641|Terrenos|01||||1|
+20260101|36411|Costo|01||||1|
+20260101|36412|Revaluación|01||||1|
+20260101|3642|Edificaciones|01||||1|
+20260101|36421|Edificaciones - Costo|01||||1|
+20260101|36422|Edificaciones - Revaluación|01||||1|
+20260101|36423|Edificaciones - Costo de financiación|01||||1|
+20260101|36424|Instalaciones - Costo|01||||1|
+20260101|36425|Instalaciones - Revaluación|01||||1|
+20260101|36426|Instalaciones - Costo de financiación|01||||1|
+20260101|36427|Mejoras en locales arrendados - Costo|01||||1|
+20260101|36428|Mejoras en locales arrendados - Revaluación|01||||1|
+20260101|36429|Mejoras en locales arrendados - Costo de financiación|01||||1|
+20260101|3643|Maquinaria y equipo de explotación|01||||1|
+20260101|36431|Costo|01||||1|
+20260101|36432|Revaluación|01||||1|
+20260101|36433|Costo de financiación|01||||1|
+20260101|3644|Unidades de transporte|01||||1|
+20260101|36441|Costo|01||||1|
+20260101|36442|Revaluación|01||||1|
+20260101|3645|Muebles y enseres|01||||1|
+20260101|36451|Costo|01||||1|
+20260101|36452|Revaluación|01||||1|
+20260101|3646|Equipos diversos|01||||1|
+20260101|36461|Costo|01||||1|
+20260101|36462|Revaluación|01||||1|
+20260101|3647|Herramientas|01||||1|
+20260101|36471|Herramientas - Costo|01||||1|
+20260101|38472|Herramientas - Revaluación|01||||1|
+20260101|38473|Unidades de reemplazo - costo|01||||1|
+20260101|38474|Unidades de reemplazo - Revaluación|01||||1|
+20260101|3649|Obras en curso|01||||1|
+20260101|36491|Costo|01||||1|
+20260101|36492|Revaluación|01||||1|
+20260101|365|Desvalorización de intangibles|01||||1|
+20260101|3651|Concesiones, licencias y otros derechos|01||||1|
+20260101|36511|Costo|01||||1|
+20260101|36512|Revaluación|01||||1|
+20260101|3652|Patentes y propiedad industrial|01||||1|
+20260101|36521|Costo|01||||1|
+20260101|36522|Revaluación|01||||1|
+20260101|3653|Programas de computadora ( software ) 36531 Costo|01||||1|
+20260101|36532|Revaluación|01||||1|
+20260101|3654|Costos de exploración y desarrollo|01||||1|
+20260101|36541|Costo|01||||1|
+20260101|36542|Revaluación|01||||1|
+20260101|36543|Costo de financiación|01||||1|
+20260101|3655|Fórmulas, diseños y prototipos|01||||1|
+20260101|36551|Costo|01||||1|
+20260101|36552|Revaluación|01||||1|
+20260101|3657|Plusvalía mercantil|01||||1|
+20260101|3659|Otros activos intangibles|01||||1|
+20260101|36591|Costo|01||||1|
+20260101|36592|Revaluación|01||||1|
+20260101|366|Desvalorización de activos biológicos|01||||1|
+20260101|3661|Activos biológicos en producción|01||||1|
+20260101|36611|Costo|01||||1|
+20260101|36613|Costo de financiación|01||||1|
+20260101|3662|Activos biológicos en desarrollo|01||||1|
+20260101|36621|Costo|01||||1|
+20260101|36622|Costo de financiación|01||||1|
+20260101|367|Desvalorización de inversiones mobiliarias|01||||1|
+20260101|3671|Inversiones a ser mantenidas hasta el vencimiento|01||||1|
+20260101|36711|Costo|01||||1|
+20260101|3672|Inversiones financieras repres entativas de derecho patrimonial|01||||1|
+20260101|36721|Costo|01||||1|
+20260101|3673|Otras inversiones financieras|01||||1|
+20260101|36731|Costo|01||||1|
+20260101|371|Impuesto a la renta diferido|01||||1|
+20260101|3711|Impuesto a la renta diferido – Patrimonio|01||||1|
+20260101|3712|Impuesto a la renta diferido – Resultados|01||||1|
+20260101|372|Participaciones de los trabajadores diferidas|01||||1|
+20260101|3721|Participaciones de los trabajadores diferidas – Patrimonio|01||||1|
+20260101|3722|Participaciones de los trabajadores diferidas – Resultados|01||||1|
+20260101|373|Intereses diferidos|01||||1|
+20260101|3731|Intereses no devengados en transacciones con terceros|01||||1|
+20260101|3732|Intereses no devengados en medición a valor descontado|01||||1|
+20260101|381|Bienes de arte y cultura|01||||1|
+20260101|3811|Obras de arte|01||||1|
+20260101|3812|Biblioteca|01||||1|
+20260101|3813|Otros 382 Diversos|01||||1|
+20260101|3821|Monedas y joyas|01||||1|
+20260101|3822|Bienes entregados en comodato|01||||1|
+20260101|3823|Bienes recibidos en pago (adjudicados y realizables)|01||||1|
+20260101|3829|Otros|01||||1|
+20260101|391|Depreciación acumulada propiedades de inversión|01||||1|
+20260101|3911|Edificaciones|01||||1|
+20260101|39111|Costo|01||||1|
+20260101|39112|Revaluación|01||||1|
+20260101|39113|Costo de financiación|01||||1|
+20260101|392|Depreciación acumulada propiedades de in versión - Arrendamiento financiero|01||||1|
+20260101|3921|Edificaciones|01||||1|
+20260101|39211|Costo|01||||1|
+20260101|39212|Revaluación|01||||1|
+20260101|39213|Costo de financiación|01||||1|
+20260101|393|Depreciación acumulada propiedad, plant a y equipo - Arrendamiento financiero|01||||1|
+20260101|3932|Edificaciones|01||||1|
+20260101|39321|Costo|01||||1|
+20260101|39322|Revaluación|01||||1|
+20260101|39323|Costo de financiación|01||||1|
+20260101|3933|Maquinarias y equipos de explotación|01||||1|
+20260101|39331|Costo|01||||1|
+20260101|39332|Revaluación|01||||1|
+20260101|39333|Costo de financiación|01||||1|
+20260101|3934|Unidades de transporte|01||||1|
+20260101|39341|Costo|01||||1|
+20260101|39342|Revaluación|01||||1|
+20260101|3935|Muebles y enseres|01||||1|
+20260101|39351|Costo|01||||1|
+20260101|38352|Revaluación|01||||1|
+20260101|3936|Equipos diversos|01||||1|
+20260101|39361|Costo|01||||1|
+20260101|39362|Revaluación|01||||1|
+20260101|394|Depreciación acumulada - Arrendamiento operativo|01||||1|
+20260101|3941|Activos por derecho de uso - arrendamiento operativo|01||||1|
+20260101|39410|Plantas productoras|01||||1|
+20260101|39411|Terrenos 39412 Edificaciones|01||||1|
+20260101|39413|Maquinarias y equipos de explotación|01||||1|
+20260101|39414|Unidades de transporte|01||||1|
+20260101|39415|Equipos diversos|01||||1|
+20260101|395|Depreciación acumulada de propiedad, planta y equipo|01||||1|
+20260101|3952|Depreciación acumulada - Costo|01||||1|
+20260101|39520|Plantas productoras|01||||1|
+20260101|39521|Edificaciones|01||||1|
+20260101|39522|Instalaciones|01||||1|
+20260101|39523|Mejoras en locales arrendados|01||||1|
+20260101|39524|Maquinarias y equipos de explotación|01||||1|
+20260101|39525|Unidades de transporte|01||||1|
+20260101|39526|Muebles y enseres|01||||1|
+20260101|39527|Equipos diversos|01||||1|
+20260101|39528|Herramientas|01||||1|
+20260101|39529|Unidades de reemplazo|01||||1|
+20260101|3953|Propiedad, planta y equipo - Revaluación|01||||1|
+20260101|39530|Plantas productoras|01||||1|
+20260101|39531|Edificaciones|01||||1|
+20260101|39532|Instalaciones|01||||1|
+20260101|39533|Mejoras en locales arrendados|01||||1|
+20260101|39534|Maquinarias y equipos de explotación|01||||1|
+20260101|39535|Unidades de transporte|01||||1|
+20260101|39536|Muebles y enseres|01||||1|
+20260101|39537|Equipos diversos|01||||1|
+20260101|39538|Herramientas y unidades de reemplazo|01||||1|
+20260101|3954|Propiedad, planta y equipo - Costo de financiación|01||||1|
+20260101|39540|Plantas productoras|01||||1|
+20260101|39541|Edificaciones|01||||1|
+20260101|39542|Maquinarias y equipos de explotación|01||||1|
+20260101|3955|Propiedad, planta y equipo - Valor razonable|01||||1|
+20260101|39550|Plantas productoras|01||||1|
+20260101|396|Amortización acumulada|01||||1|
+20260101|3961|Intangibles – Costo|01||||1|
+20260101|39611|Concesiones, licencias y otros derechos|01||||1|
+20260101|39612|Patentes y propiedad industrial|01||||1|
+20260101|39613|Programas de computadora ( software ) 39614 Costos de exploración y desarrollo|01||||1|
+20260101|39615|Fórmulas, diseños y prototipos|01||||1|
+20260101|39619|Otros activos intangibles|01||||1|
+20260101|3962|Intangibles – Revaluación|01||||1|
+20260101|39621|Concesiones, licencias y otros derechos|01||||1|
+20260101|39622|Patentes y propiedad industrial|01||||1|
+20260101|39623|Programas de computadora ( software )|01||||1|
+20260101|39624|Costos de exploración y desarrollo|01||||1|
+20260101|39625|Fórmulas, diseños y prototipos|01||||1|
+20260101|39629|Otros activos intangibles|01||||1|
+20260101|3963|Intangibles – Costos de financiación|01||||1|
+20260101|39633|39634 Programas de computadora|01||||1|
+20260101|39635|Costos de desarrollo|01||||1|
+20260101|398|Depreciación acumulada - Activos biológicos en producción|01||||1|
+20260101|3981|Activos biológicos en producción - Costo|01||||1|
+20260101|39811|Activos biológicos en producción|01||||1|
+20260101|401|Gobierno nacional|01||||1|
+20260101|4011|Impuesto general a las ventas|01||||1|
+20260101|40111|IGV – Cuenta propia|01||||1|
+20260101|40112|IGV – Servicios prestados por no domiciliados|01||||1|
+20260101|40113|IGV – Régimen de percepciones|01||||1|
+20260101|40114|IGV – Régimen de retenciones|01||||1|
+20260101|40115|IGV – Importaciones|01||||1|
+20260101|40116|IGV – Destinado a operaciones gravadas|01||||1|
+20260101|40117|IGV -|01||||1|
+20260101|4012|Impuesto selectivo al consumo|01||||1|
+20260101|4015|Derechos aduaneros|01||||1|
+20260101|40151|Derechos arancelarios|01||||1|
+20260101|40152|Otros derechos arancelarios|01||||1|
+20260101|4017|Impuesto a la renta|01||||1|
+20260101|40171|Renta de tercera categoría|01||||1|
+20260101|40172|Renta de cuarta categoría|01||||1|
+20260101|40173|Renta de quinta categoría|01||||1|
+20260101|40174|Renta de no domiciliados|01||||1|
+20260101|40175|Otras retenciones|01||||1|
+20260101|4018|Otros impuestos y contraprestaciones|01||||1|
+20260101|40181|Impuesto a las transacciones financieras|01||||1|
+20260101|40182|Impuesto a los juegos de casino y tragamonedas|01||||1|
+20260101|40183|Tasas por la prestación de servicios públicos|01||||1|
+20260101|40184|Regalías|01||||1|
+20260101|40185|Impuesto a los dividendos|01||||1|
+20260101|40186|Impuesto temporal a los activos netos|01||||1|
+20260101|40189|Otros impuestos|01||||1|
+20260101|402|Certificados tributarios|01||||1|
+20260101|403|Instituciones públicas|01||||1|
+20260101|4031|ESSALUD|01||||1|
+20260101|4032|ONP|01||||1|
+20260101|4033|Contribución al SENATI|01||||1|
+20260101|4034|Contribución al SENCICO|01||||1|
+20260101|4039|Otras instituciones|01||||1|
+20260101|405|Gobiernos regionales|01||||1|
+20260101|406|Gobiernos locales|01||||1|
+20260101|40611|Impuesto al patrimonio vehicular|01||||1|
+20260101|40612|Impuesto a las apuestas|01||||1|
+20260101|40613|Impuesto a los juegos|01||||1|
+20260101|40614|Impuesto de alcabala|01||||1|
+20260101|40615|Impuesto predial|01||||1|
+20260101|40616|Impuesto a los espectáculos públicos no deportivos|01||||1|
+20260101|4062|Contribuciones|01||||1|
+20260101|4063|Tasas|01||||1|
+20260101|40631|Licencia de apertura de establecimientos|01||||1|
+20260101|40632|Transporte público|01||||1|
+20260101|40633|Estacionamiento de vehículos|01||||1|
+20260101|40634|Servicios públicos o arbitrios|01||||1|
+20260101|40635|Servicios administrativos o derechos|01||||1|
+20260101|409|Otros costos administrativos e intereses|01||||1|
+20260101|411|Remuneraciones por pagar|01||||1|
+20260101|4111|Sueldos y salarios por pagar|01||||1|
+20260101|4112|Comisiones por pagar|01||||1|
+20260101|4113|Remuneraciones en especie por pagar|01||||1|
+20260101|4114|Gratificaciones por pagar|01||||1|
+20260101|4115|Vacaciones por pagar|01||||1|
+20260101|413|Participaciones de los trabajadores por pagar|01||||1|
+20260101|415|Beneficios sociales de los trabajadores por pagar|01||||1|
+20260101|4151|Compensación por tiempo de servicios|01||||1|
+20260101|4152|Adelanto de compensación por tiempo de servicios|01||||1|
+20260101|4153|Pensiones y jubilaciones|01||||1|
+20260101|417|Administradoras de fondos de pensiones|01||||1|
+20260101|419|Otras remuneraciones y participaciones por pagar|01||||1|
+20260101|421|Facturas, boletas y otros comprobantes por pagar|01||||1|
+20260101|4211|No emitidas|01||||1|
+20260101|4212|Emitidas|01||||1|
+20260101|422|Anticipos a proveedores|01||||1|
+20260101|423|Letras por pagar|01||||1|
+20260101|424|Honorarios por pagar|01||||1|
+20260101|431|Facturas, boletas y otros comprobantes por pagar|01||||1|
+20260101|4311|No emitidas|01||||1|
+20260101|432|Anticipos otorgados|01||||1|
+20260101|4321|Anticipos otorgados|01||||1|
+20260101|433|Letras por pagar|01||||1|
+20260101|4331|Letras por pagar|01||||1|
+20260101|434|Honorarios por pagar|01||||1|
+20260101|4341|Honorarios por pagar|01||||1|
+20260101|441|Accionistas ( socios, partícipes)|01||||1|
+20260101|4411|Préstamos|01||||1|
+20260101|4412|Dividendos|01||||1|
+20260101|4419|Otras cuentas por pagar|01||||1|
+20260101|442|Directores|01||||1|
+20260101|4421|Dietas|01||||1|
+20260101|4429|Otras cuentas por pagar|01||||1|
+20260101|451|Préstamos de instituciones financieras y otras entidades|01||||1|
+20260101|4511|Instituciones financieras|01||||1|
+20260101|4512|Otras entidades|01||||1|
+20260101|452|Contratos de arrendamiento financiero|01||||1|
+20260101|453|Obligaciones emitidas|01||||1|
+20260101|4531|Bonos emitidos|01||||1|
+20260101|4532|Bonos titulizados|01||||1|
+20260101|4533|Papeles comerciales|01||||1|
+20260101|4539|Otras obligaciones|01||||1|
+20260101|454|Otros Instrumentos financieros por pagar|01||||1|
+20260101|4541|Letras 4542 Papeles comerciales|01||||1|
+20260101|4543|Bonos 4544 Pagarés 4545 Facturas conformadas|01||||1|
+20260101|4549|Otras obligaciones financieras|01||||1|
+20260101|455|Costos de financiación por pagar|01||||1|
+20260101|4551|Préstamos de instituciones financieras y otras entidades|01||||1|
+20260101|45511|Instituciones financieras|01||||1|
+20260101|45512|Otras entidades|01||||1|
+20260101|4552|Contratos de arrendamiento financiero|01||||1|
+20260101|4553|Obligaciones emitidas|01||||1|
+20260101|45531|Bonos emitidos|01||||1|
+20260101|45532|Bonos titulizados|01||||1|
+20260101|45533|Papeles comerciales|01||||1|
+20260101|45539|Otras obligaciones|01||||1|
+20260101|4554|Otros instrumentos financieros por pagar|01||||1|
+20260101|45541|Letras|01||||1|
+20260101|45542|Papeles comerciales|01||||1|
+20260101|45543|Bonos 45544 Pagarés 45545 Facturas conformadas|01||||1|
+20260101|45549|Otras obligaciones financieras|01||||1|
+20260101|456|Préstamos con compromisos de recompra|01||||1|
+20260101|461|Reclamaciones de terceros|01||||1|
+20260101|464|Pasivos por instrumentos financieros|01||||1|
+20260101|4641|Instrumentos financieros primarios|01||||1|
+20260101|4642|Instrumentos financieros derivados|01||||1|
+20260101|46421|Cartera de negociación|01||||1|
+20260101|46422|Instrumentos de cobertura|01||||1|
+20260101|465|Pasivos por compra de activo inmovilizado|01||||1|
+20260101|4651|Inversiones mobiliarias|01||||1|
+20260101|4652|Propiedades de inversión|01||||1|
+20260101|4653|Activos adquiridos en arrendamiento financiero|01||||1|
+20260101|4654|Propiedad, planta y equipo|01||||1|
+20260101|4655|Intangibles 4656 Activos biológicos|01||||1|
+20260101|466|Participación de terceros en acuerdos conjuntos|01||||1|
+20260101|467|Depósitos recibidos en garantía|01||||1|
+20260101|469|Otras cuentas por pagar diversas|01||||1|
+20260101|4691|Subsidios gubernamentales|01||||1|
+20260101|4692|Donaciones condicionadas|01||||1|
+20260101|4699|Otras cuentas por pagar|01||||1|
+20260101|471|Préstamos|01||||1|
+20260101|472|Costos de financiación|01||||1|
+20260101|473|Anticipos recibidos|01||||1|
+20260101|474|Regalías|01||||1|
+20260101|475|Dividendos|01||||1|
+20260101|476|Depósitos recibidos en garantía|01||||1|
+20260101|477|Pasivo por compra de activo|01||||1|
+20260101|4771|Inversiones mobiliarias|01||||1|
+20260101|4772|Inversiones inmobiliarias|01||||1|
+20260101|4773|Activos adquiridos en arrendamiento financiero|01||||1|
+20260101|4774|Propiedad, planta y equipo|01||||1|
+20260101|4776|Activos biológicos|01||||1|
+20260101|479|Otras cuentas por pagar diversas|01||||1|
+20260101|4791|Otras cuentas por pagar diversas|01||||1|
+20260101|481|Provisión para litigios|01||||1|
+20260101|482|Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado|01||||1|
+20260101|483|Provisión para reestructuraciones|01||||1|
+20260101|484|Provisión para protección y remediación del medio ambiente|01||||1|
+20260101|485|Provisión para gastos de responsabilidad social|01||||1|
+20260101|486|Provisión para garantías|01||||1|
+20260101|487|Provisión por activos por derecho de uso|01||||1|
+20260101|489|Otras provisiones|01||||1|
+20260101|491|Impuesto a la renta diferido|01||||1|
+20260101|4911|Impuesto a la renta diferido – Patrimonio|01||||1|
+20260101|4912|Impuesto a la renta diferido – Resultados|01||||1|
+20260101|492|Participaciones de los trabajadores diferidas|01||||1|
+20260101|4921|Participaciones de los trabajadores diferidas – Patrimonio|01||||1|
+20260101|4922|Participaciones de los trabajadores diferidas – Resultados|01||||1|
+20260101|493|Intereses diferidos|01||||1|
+20260101|4931|Intereses no devengados en transacciones con terceros|01||||1|
+20260101|4932|Intereses no devengados en medición a valor descontado|01||||1|
+20260101|494|Ganancia en venta con arrendamiento financiero paralelo|01||||1|
+20260101|495|Subsidios recibidos diferidos|01||||1|
+20260101|496|Ingresos diferidos|01||||1|
+20260101|497|Costos diferidos|01||||1|
+20260101|501|Capital social|01||||1|
+20260101|5011|Acciones|01||||1|
+20260101|5012|Participaciones|01||||1|
+20260101|502|Acciones en tesorería|01||||1|
+20260101|511|Acciones de inversión|01||||1|
+20260101|512|Acciones de inversión en tesorería|01||||1|
+20260101|521|Primas (descuento) de acciones|01||||1|
+20260101|522|Capitalizaciones en trámite|01||||1|
+20260101|5221|Aportes|01||||1|
+20260101|5222|Reservas|01||||1|
+20260101|5223|Acreencias|01||||1|
+20260101|5224|Utilidades|01||||1|
+20260101|523|Reducciones de capital pendientes de formalización|01||||1|
+20260101|561|Diferencia en cambio de inversiones permanentes en entidades extranjeras|01||||1|
+20260101|562|Instrumentos financieros – Coberturas|01||||1|
+20260101|563|Resultado en activos o pasivos financieros mantenidos para negociación|01||||1|
+20260101|5631|Ganancia|01||||1|
+20260101|5632|Pérdida|01||||1|
+20260101|564|Resultado en otros activos o pasivos por inversiones financieras|01||||1|
+20260101|5641|Ganancia|01||||1|
+20260101|5642|Pérdida|01||||1|
+20260101|565|Resultado en activos o pasivos financieros mantenidos para negociación – Compra|01||||1|
+20260101|5651|Ganancia|01||||1|
+20260101|5652|Pérdida|01||||1|
+20260101|571|Excedente de revaluación|01||||1|
+20260101|5711|Propiedad de inversión|01||||1|
+20260101|57111|Adquisición directa|01||||1|
+20260101|57112|Arrendamiento financiero|01||||1|
+20260101|5712|Propiedad, planta y equipo|01||||1|
+20260101|57121|Adquisición directa|01||||1|
+20260101|57122|Arrendamiento financiero|01||||1|
+20260101|5713|Intangibles 5714 Activos por derecho de uso - arrendamiento operativo|01||||1|
+20260101|572|Excedente de revaluación – Acciones liberadas recibidas|01||||1|
+20260101|581|Reinversión|01||||1|
+20260101|582|Legal|01||||1|
+20260101|583|Contractuales|01||||1|
+20260101|584|Estatutarias|01||||1|
+20260101|585|Facultativas|01||||1|
+20260101|589|Otras reservas|01||||1|
+20260101|591|Utilidades no distribuidas|01||||1|
+20260101|5911|Utilidades acumuladas|01||||1|
+20260101|5912|Ingresos de años anteriores|01||||1|
+20260101|592|Pérdidas acumuladas|01||||1|
+20260101|5921|Pérdidas acumuladas|01||||1|
+20260101|5922|Gastos de años anteriores|01||||1|
+20260101|601|Mercaderías|01||||1|
+20260101|6011|Mercaderías|01||||1|
+20260101|602|Materias primas|01||||1|
+20260101|603|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|6031|Materiales auxiliares|01||||1|
+20260101|6032|Suministros|01||||1|
+20260101|6033|Repuestos|01||||1|
+20260101|604|Envases y embalajes|01||||1|
+20260101|6041|Envases|01||||1|
+20260101|6042|Embalajes|01||||1|
+20260101|609|Costos vinculados con las compras|01||||1|
+20260101|6091|Costos vinculados con las compras de mercaderías|01||||1|
+20260101|60911|Transporte|01||||1|
+20260101|60912|Seguros 60913 Derechos aduaneros|01||||1|
+20260101|60914|Comisiones|01||||1|
+20260101|60919|Otros costos|01||||1|
+20260101|6092|Costos vinculados con las compras de materias primas|01||||1|
+20260101|60921|Transporte|01||||1|
+20260101|60922|Seguros 60923 Derechos aduaneros|01||||1|
+20260101|60924|Comisiones|01||||1|
+20260101|60925|Otros costos|01||||1|
+20260101|60932|Seguros 60933 Derechos aduaneros|01||||1|
+20260101|60934|Comisiones|01||||1|
+20260101|60935|Otros costos|01||||1|
+20260101|6094|Costos vinculados con las compras de envases y embalajes|01||||1|
+20260101|60941|Transporte|01||||1|
+20260101|60942|Seguros|01||||1|
+20260101|60943|Derechos aduaneros|01||||1|
+20260101|60944|Comisiones|01||||1|
+20260101|60945|Otros costos|01||||1|
+20260101|611|Mercaderías|01||||1|
+20260101|6111|Mercaderías|01||||1|
+20260101|612|Materias primas|01||||1|
+20260101|6121|Materias primas|01||||1|
+20260101|613|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|6131|Materiales auxiliares|01||||1|
+20260101|6132|Suministros|01||||1|
+20260101|6133|Repuestos|01||||1|
+20260101|614|Envases y embalajes|01||||1|
+20260101|6141|Envases|01||||1|
+20260101|6142|Embalajes|01||||1|
+20260101|621|Remuneraciones|01||||1|
+20260101|6211|Sueldos y salarios|01||||1|
+20260101|6212|Comisiones|01||||1|
+20260101|6213|Remuneraciones en especie|01||||1|
+20260101|6214|Gratificaciones|01||||1|
+20260101|6215|Vacaciones|01||||1|
+20260101|622|Otras remuneraciones|01||||1|
+20260101|623|Indemnizaciones al personal|01||||1|
+20260101|624|Capacitación|01||||1|
+20260101|625|Atención al personal|01||||1|
+20260101|627|Seguridad, previsión social y otras contribuciones|01||||1|
+20260101|6271|Régimen de prestaciones de salud|01||||1|
+20260101|6272|Régimen de pensiones - Aporte de empresa|01||||1|
+20260101|6274|Seguro de vida|01||||1|
+20260101|6275|Seguros particulares de prestaciones de salud – EPS y otros particulares 6276 Caja de beneficios de seguridad social del pescador|01||||1|
+20260101|6277|Contribuciones al SENATI|01||||1|
+20260101|628|Retribuciones al directorio|01||||1|
+20260101|629|Beneficios sociales de los trabajadores|01||||1|
+20260101|6291|Compensación por tiempo de servicio|01||||1|
+20260101|6292|Pensiones y jubilaciones|01||||1|
+20260101|6293|Otros beneficios post-empleo|01||||1|
+20260101|6294|Participación en las utilidades|01||||1|
+20260101|62941|Participación corriente|01||||1|
+20260101|62942|Participación diferida|01||||1|
+20260101|631|Transporte, correos y gastos de viaje|01||||1|
+20260101|6311|Transporte|01||||1|
+20260101|63111|De carga|01||||1|
+20260101|63112|De pasajeros|01||||1|
+20260101|6312|Correos|01||||1|
+20260101|6313|Alojamiento|01||||1|
+20260101|6314|Alimentación|01||||1|
+20260101|6315|Otros gastos de viaje|01||||1|
+20260101|632|Asesoría y consultoría|01||||1|
+20260101|6321|Administrativa|01||||1|
+20260101|6322|Legal y tributaria|01||||1|
+20260101|6323|Auditoría y contable|01||||1|
+20260101|6324|Mercadotecnia|01||||1|
+20260101|6325|Medioambiental|01||||1|
+20260101|6326|Investigación y desarrollo|01||||1|
+20260101|6327|Producción|01||||1|
+20260101|6329|Otros 633 Producción encargada a terceros|01||||1|
+20260101|634|Mantenimiento y reparaciones|01||||1|
+20260101|6341|Propiedad de inversión|01||||1|
+20260101|6342|Activos por derecho de uso|01||||1|
+20260101|63421|Financiero|01||||1|
+20260101|63432|Operativo|01||||1|
+20260101|6343|Propiedad, planta y equipo|01||||1|
+20260101|6344|Intangibles 6345 Activos biológicos|01||||1|
+20260101|635|Alquileres|01||||1|
+20260101|6351|Terrenos|01||||1|
+20260101|6352|Edificaciones|01||||1|
+20260101|6353|Maquinarias y equipos de explotación|01||||1|
+20260101|6354|6355 Equipo de transporte|01||||1|
+20260101|6356|Equipos diversos|01||||1|
+20260101|636|Servicios básicos|01||||1|
+20260101|6361|Energía eléctrica|01||||1|
+20260101|6362|Gas 6363 Agua 6364 Teléfono|01||||1|
+20260101|6365|Internet 6366 Radio|01||||1|
+20260101|6367|Cable|01||||1|
+20260101|637|Publicidad, publicaciones, relaciones públicas|01||||1|
+20260101|6371|Publicidad|01||||1|
+20260101|6372|Publicaciones|01||||1|
+20260101|6373|Relaciones públicas|01||||1|
+20260101|638|Servicios de contratistas|01||||1|
+20260101|639|Otros servicios prestados por terceros|01||||1|
+20260101|6391|Gastos bancarios|01||||1|
+20260101|6392|Gastos de laboratorio|01||||1|
+20260101|641|Gobierno nacional|01||||1|
+20260101|6411|Impuesto general a las ventas y selectivo al consumo|01||||1|
+20260101|6412|Impuesto a las transacciones financieras|01||||1|
+20260101|6413|Impuesto temporal a los activos netos|01||||1|
+20260101|6414|Impuesto a los juegos de casino y máquinas tragamonedas|01||||1|
+20260101|6415|Regalías mineras|01||||1|
+20260101|6416|Cánones|01||||1|
+20260101|6419|Otros 642 Gobierno regional|01||||1|
+20260101|643|Gobierno local|01||||1|
+20260101|6431|Impuesto predial|01||||1|
+20260101|6432|Arbitrios municipales y seguridad ciudadana|01||||1|
+20260101|6433|Impuesto al patrimonio vehicular|01||||1|
+20260101|6434|Licencia de funcionamiento|01||||1|
+20260101|6439|Otros 644 Otros gastos por tributos|01||||1|
+20260101|6442|Contribución al SENCICO|01||||1|
+20260101|6443|Otros|01||||1|
+20260101|645|Gastos en deuda tributaria|01||||1|
+20260101|6451|Intereses|01||||1|
+20260101|6452|intereses - fraccionamiento|01||||1|
+20260101|6453|Multas|01||||1|
+20260101|6454|Costas y otros|01||||1|
+20260101|651|Seguros 652 Regalías|01||||1|
+20260101|653|Suscripciones|01||||1|
+20260101|654|Licencias y derechos de vigencia|01||||1|
+20260101|655|Costo neto de enajenación de activos inmovilizados y operaciones discontinuadas 6551 Costo neto de enajenación de activos inmovilizados|01||||1|
+20260101|65511|Inversiones mobiliarias|01||||1|
+20260101|65512|Propiedades de inversión|01||||1|
+20260101|65513|Activos por derecho de uso - arrendamiento financiero|01||||1|
+20260101|65514|Propiedad, planta y equipo|01||||1|
+20260101|65515|Intangibles|01||||1|
+20260101|65516|Activos biológicos|01||||1|
+20260101|6552|Operaciones discontinuadas – Abandono de activos|01||||1|
+20260101|65521|Propiedades de inversión|01||||1|
+20260101|65522|Activos por derecho de uso - Arrendamiento financiero|01||||1|
+20260101|65523|Propiedad, planta y equipo|01||||1|
+20260101|65524|Intangibles|01||||1|
+20260101|65525|Activos biológicos|01||||1|
+20260101|656|Suministros|01||||1|
+20260101|658|Gestión medioambiental|01||||1|
+20260101|659|Otros gastos de gestión|01||||1|
+20260101|6591|Donaciones 6592 Sanciones administrativas|01||||1|
+20260101|661|Activo realizable|01||||1|
+20260101|6611|Mercaderías|01||||1|
+20260101|6612|Productos terminados|01||||1|
+20260101|6613|Activos no corrientes mantenidos para la venta|01||||1|
+20260101|66131|Propiedades de inversión|01||||1|
+20260101|66132|Propiedad, planta y equipo|01||||1|
+20260101|66133|Intangibles|01||||1|
+20260101|66134|Activos biológicos|01||||1|
+20260101|662|Activo inmovilizado|01||||1|
+20260101|6621|Propiedades de inversión|01||||1|
+20260101|6622|Activos biológicos|01||||1|
+20260101|671|Gastos en operaciones de endeudamiento y otros|01||||1|
+20260101|6711|Préstamos de instituciones financieras y otras entidades|01||||1|
+20260101|6712|Contratos de arrendamiento financiero|01||||1|
+20260101|6713|Emisión y colocación de instrumentos representativos de deuda y|01||||1|
+20260101|6714|Documentos vendidos o descontados|01||||1|
+20260101|672|Pérdida por instrumentos financieros derivados|01||||1|
+20260101|673|Intereses por préstamos y otras obligaciones|01||||1|
+20260101|6731|Préstamos de instituciones financieras y otras entidades|01||||1|
+20260101|67311|Instituciones financieras|01||||1|
+20260101|67312|Otras entidades|01||||1|
+20260101|6732|Contratos de arrendamiento financiero|01||||1|
+20260101|6733|Otros instrumentos financieros por pagar|01||||1|
+20260101|6734|Documentos vendidos o descontados|01||||1|
+20260101|6735|Obligaciones emitidas|01||||1|
+20260101|6736|Obligaciones comerciales|01||||1|
+20260101|674|Gastos en operaciones de factoraje|01||||1|
+20260101|6741|Pérdida en instrumentos vendidos|01||||1|
+20260101|675|Descuentos concedidos por pronto pago|01||||1|
+20260101|676|Diferencia de cambio|01||||1|
+20260101|677|Pérdida por medición de activos y pasivos financieros al valor razonable|01||||1|
+20260101|6771|Inversiones mantenidas para negociación|01||||1|
+20260101|6772|Otras inversiones financieras|01||||1|
+20260101|6773|Otros|01||||1|
+20260101|678|Participación en resultados de entidades relacionadas|01||||1|
+20260101|6781|Participación en los resultados de subsidiarias y asociadas bajo el método|01||||1|
+20260101|6782|Participaciones en negocios conjuntos|01||||1|
+20260101|679|Otros gastos financieros|01||||1|
+20260101|6791|Primas por opciones|01||||1|
+20260101|6792|Gastos financieros en medición a valor descontado|01||||1|
+20260101|6793|Gastos financieros en actualización de activos por derecho de uso|01||||1|
+20260101|681|Depreciación de propiedades de inversión|01||||1|
+20260101|6811|Edificaciones|01||||1|
+20260101|68111|Costo|01||||1|
+20260101|68112|Revaluación|01||||1|
+20260101|68113|Costo de financiación|01||||1|
+20260101|682|Depreciación de activos por derec ho de uso - arrendamiento financiero|01||||1|
+20260101|6821|Propiedades de inversión|01||||1|
+20260101|68211|Edificaciones|01||||1|
+20260101|682111|Costo|01||||1|
+20260101|682112|Revaluación|01||||1|
+20260101|682113|Costo de financiación|01||||1|
+20260101|6822|Propiedad, planta y equipo|01||||1|
+20260101|68221|Edificaciones|01||||1|
+20260101|682211|Costo|01||||1|
+20260101|682212|Revaluación|01||||1|
+20260101|682213|Costo de financiación|01||||1|
+20260101|68222|Maquinarias y equipos de explotación|01||||1|
+20260101|682221|Costo|01||||1|
+20260101|682222|Revaluación|01||||1|
+20260101|682223|Costo de financiación|01||||1|
+20260101|68223|Unidades de transporte|01||||1|
+20260101|682231|Costo|01||||1|
+20260101|68225|Equipos diversos|01||||1|
+20260101|682251|Costo|01||||1|
+20260101|682252|Revaluación|01||||1|
+20260101|683|Depreciación de activos por derec ho de uso - arrendamiento operativo|01||||1|
+20260101|6831|Depreciación de activos por derecho de uso - arrendamiento operativo|01||||1|
+20260101|68311|Edificaciones|01||||1|
+20260101|683111|Costo|01||||1|
+20260101|683112|Revaluación|01||||1|
+20260101|68312|Maquinarias y equipos de explotación|01||||1|
+20260101|683121|Costo|01||||1|
+20260101|683122|Revaluación|01||||1|
+20260101|68313|Unidades de transporte|01||||1|
+20260101|683131|Costo|01||||1|
+20260101|683132|Revaluación|01||||1|
+20260101|68315|Equipos diversos|01||||1|
+20260101|683351|Costo|01||||1|
+20260101|683152|Revaluación|01||||1|
+20260101|684|Depreciación de propiedad, planta y equipo|01||||1|
+20260101|6841|Depreciación de propiedad, planta y equipo - Costo|01||||1|
+20260101|68410|Plantas productoras|01||||1|
+20260101|68411|Edificaciones|01||||1|
+20260101|68412|Maquinarias y equipos de explotación|01||||1|
+20260101|68413|Unidades de transporte|01||||1|
+20260101|68414|Muebles y enseres|01||||1|
+20260101|68415|Equipos diversos|01||||1|
+20260101|68416|Herramientas y unidades de reemplazo|01||||1|
+20260101|6842|Depreciación de propiedad, planta y equipo - Revaluación|01||||1|
+20260101|68420|Plantas productoras|01||||1|
+20260101|68421|Edificaciones|01||||1|
+20260101|68422|Maquinarias y equipos de explotación|01||||1|
+20260101|68423|Unidades de transporte|01||||1|
+20260101|68424|Muebles y enseres|01||||1|
+20260101|68425|Equipos diversos|01||||1|
+20260101|68426|Herramientas y unidades de reemplazo|01||||1|
+20260101|6843|Depreciación de propiedad, planta y equipo - Costos de financiación|01||||1|
+20260101|68430|Plantas productoras|01||||1|
+20260101|68431|Edificaciones|01||||1|
+20260101|68432|Maquinarias y equipos de explotación|01||||1|
+20260101|685|Depreciación de activos biológicos en producción|01||||1|
+20260101|6851|Depreciación de activos biológicos en producción - costo|01||||1|
+20260101|68511|Activos biológicos de origen animal|01||||1|
+20260101|68512|Activos biológicos de origen vegetal|01||||1|
+20260101|6852|Depreciación de activos biológicos|01||||1|
+20260101|68521|Activos biológicos de origen animal|01||||1|
+20260101|68522|Activos biológicos de origen vegetal|01||||1|
+20260101|686|Amortización de intangibles|01||||1|
+20260101|6861|Amortización de intangibles – Costo|01||||1|
+20260101|68611|Concesiones, licencias y otros derechos|01||||1|
+20260101|68612|Patentes y propiedad industrial|01||||1|
+20260101|68613|Programas de computadora ( software )|01||||1|
+20260101|68614|Costos de exploración y desarrollo|01||||1|
+20260101|68615|Fórmulas, diseños y prototipos|01||||1|
+20260101|68619|Otros activos intangibles|01||||1|
+20260101|6862|Amortización de intangibles – Revaluación|01||||1|
+20260101|68621|Concesiones, licencias y otros derechos|01||||1|
+20260101|68622|Patentes y propiedad industrial|01||||1|
+20260101|68623|Programas de computadora ( software ) 68624 Costos de exploración y desarrollo|01||||1|
+20260101|68625|Fórmulas, diseños y prototipos|01||||1|
+20260101|68629|Otros activos intangibles|01||||1|
+20260101|687|Valuación de activos|01||||1|
+20260101|6871|Estimación de cuentas de cobranza dudosa|01||||1|
+20260101|68711|Cuentas por cobrar comerciales – Terceros|01||||1|
+20260101|68712|Cuentas por cobrar comerciales – Relacionadas|01||||1|
+20260101|68713|Cuentas por cobrar al personal , a los accionistas (socios) y|01||||1|
+20260101|68714|Cuentas por cobrar diversas – Terceros|01||||1|
+20260101|68715|Cuentas por cobrar diversas – Relacionadas|01||||1|
+20260101|6873|Desvalorización de inversiones mobiliarias|01||||1|
+20260101|68731|Inversiones a ser mantenidas hasta el vencimiento|01||||1|
+20260101|68732|Instrumentos financieros representativos de derecho|01||||1|
+20260101|688|Deterioro del valor de los activos|01||||1|
+20260101|6882|Desvalorización de propiedad de inversión|01||||1|
+20260101|68812|Edificaciones|01||||1|
+20260101|68813|Construcciones en curso|01||||1|
+20260101|6882|Desvalorización de activos por derecho de uso - arrendamiento financiero 68820 Planta productora en producción|01||||1|
+20260101|68821|Planta productora en desarrollo|01||||1|
+20260101|68822|Terrenos 68823 Edificaciones|01||||1|
+20260101|68824|Maquinarias y equipos de explotación|01||||1|
+20260101|68825|Unidades de transporte|01||||1|
+20260101|68826|Muebles y enseres|01||||1|
+20260101|68827|Equipos diversos|01||||1|
+20260101|68828|Herramientas y unidades de reemplazo|01||||1|
+20260101|6883|Desvalorización de propiedad, planta y equipo|01||||1|
+20260101|68830|Planta productora en producción|01||||1|
+20260101|68831|Planta productora en desarrollo|01||||1|
+20260101|68832|Terrenos|01||||1|
+20260101|68833|Edificaciones|01||||1|
+20260101|68834|Maquinarias y equipos de explotación|01||||1|
+20260101|68835|Unidades de transporte|01||||1|
+20260101|68836|Muebles y enseres|01||||1|
+20260101|68837|Equipos diversos|01||||1|
+20260101|68838|Herramientas y unidades de reemplazo|01||||1|
+20260101|6884|Desvalorización de intangibles|01||||1|
+20260101|68841|Concesiones, licencias y otros derechos|01||||1|
+20260101|68842|Patentes y propiedad industrial|01||||1|
+20260101|68843|Programas de computadora ( software )|01||||1|
+20260101|68844|Costos de exploración y desarrollo|01||||1|
+20260101|68845|Fórmulas, diseños y prototipos|01||||1|
+20260101|68846|Otros activos intangibles|01||||1|
+20260101|68847|Plusvalía mercantil|01||||1|
+20260101|6889|Desvalorización de activos biológicos en producción|01||||1|
+20260101|68891|Activos biológicos de origen animal|01||||1|
+20260101|68892|Activos biológicos de origen vegetal|01||||1|
+20260101|689|Provisiones|01||||1|
+20260101|6891|Provisión para litigios|01||||1|
+20260101|68911|Provisión para litigios – Costo|01||||1|
+20260101|68912|Provisión para litigios – Actualización financiera|01||||1|
+20260101|6892|Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado|01||||1|
+20260101|68921|Provisión por desmantelamiento, retiro o rehabilitación del|01||||1|
+20260101|68922|Provisión por desmantelamiento, retiro o rehabilitación del|01||||1|
+20260101|6893|Provisión para reestructuraciones|01||||1|
+20260101|6894|Provisión para protección y remediación del medio ambiente|01||||1|
+20260101|68941|Provisión para protección y remediación del medio ambiente –|01||||1|
+20260101|68942|Provisión para protección y remediación del medio ambiente –|01||||1|
+20260101|6896|Provisión para garantías|01||||1|
+20260101|68961|Provisión para garantías – Costo|01||||1|
+20260101|68962|Provisión para garantías – Actualización financiera|01||||1|
+20260101|6897|Provisión por activos por derecho de uso|01||||1|
+20260101|68971|Provisión por activos por derecho de uso arrendamiento|01||||1|
+20260101|68972|Provisión por activos por derecho de uso arrendamiento|01||||1|
+20260101|6899|Otras provisiones|01||||1|
+20260101|691|Mercaderías|01||||1|
+20260101|6911|Mercaderías - exportación|01||||1|
+20260101|69111|Terceros|01||||1|
+20260101|69112|Relacionadas|01||||1|
+20260101|6912|Mercaderías - venta local|01||||1|
+20260101|69121|Terceros|01||||1|
+20260101|69122|Relacionadas|01||||1|
+20260101|692|Productos terminados|01||||1|
+20260101|6921|Productos terminados - Exportación|01||||1|
+20260101|69211|Terceros|01||||1|
+20260101|69212|Relacionadas|01||||1|
+20260101|6922|Productos terminados - Venta local|01||||1|
+20260101|69221|Terceros 69222 Relacionadas|01||||1|
+20260101|6923|Costos de financiación – Productos terminados|01||||1|
+20260101|69231|Terceros 69232 Relacionadas|01||||1|
+20260101|6924|Costos de producción no abs orbido – Productos terminados|01||||1|
+20260101|6925|Costo de ineficiencia – Productos terminados|01||||1|
+20260101|693|Servicios terminados|01||||1|
+20260101|6931|Servicios – Exportación|01||||1|
+20260101|69311|Terceros 69312 Relacionadas|01||||1|
+20260101|6932|Servicios – local|01||||1|
+20260101|69321|Terceros 69322 Relacionadas|01||||1|
+20260101|694|Subproductos, desechos y desperdicios|01||||1|
+20260101|6941|Subproductos|01||||1|
+20260101|69411|Terceros|01||||1|
+20260101|69412|Relacionadas|01||||1|
+20260101|6942|Desechos y desperdicios|01||||1|
+20260101|69421|Terceros|01||||1|
+20260101|69422|Relacionadas|01||||1|
+20260101|695|Gastos por desvalorización de inventarios al costo|01||||1|
+20260101|6951|Mercaderías|01||||1|
+20260101|6952|Productos terminados|01||||1|
+20260101|6953|Subproductos, desechos y desperdicios|01||||1|
+20260101|6954|Productos en proceso|01||||1|
+20260101|6955|Materias primas|01||||1|
+20260101|6956|Materiales auxiliares, suministros y repuestos|01||||1|
+20260101|6957|Envases y embalajes|01||||1|
+20260101|6958|Inventarios por recibir|01||||1|
+20260101|701|Mercaderías|01||||1|
+20260101|7011|Mercaderías - venta de exportación|01||||1|
+20260101|70111|Terceros|01||||1|
+20260101|70112|Relacionadas|01||||1|
+20260101|7012|Mercaderías - venta local|01||||1|
+20260101|70111|Terceros|01||||1|
+20260101|70112|Relacionadas|01||||1|
+20260101|702|Productos terminados|01||||1|
+20260101|7021|Productos terminados - venta de exportación|01||||1|
+20260101|70211|Terceros|01||||1|
+20260101|70212|Relacionadas|01||||1|
+20260101|7022|Productos terminados - venta local|01||||1|
+20260101|70221|Terceros 70222 Relacionadas|01||||1|
+20260101|703|Servicios terminados|01||||1|
+20260101|7031|Servicios – exportación|01||||1|
+20260101|70311|Terceros 70312 Relacionadas|01||||1|
+20260101|7032|Servicios – local|01||||1|
+20260101|70321|Terceros 70322 Relacionadas|01||||1|
+20260101|704|Subproductos, desechos y desperdicios|01||||1|
+20260101|7041|Subproductos|01||||1|
+20260101|70411|Terceros 70412 Relacionadas|01||||1|
+20260101|7042|Desechos y desperdicios|01||||1|
+20260101|70421|Terceros 70422 Relacionadas|01||||1|
+20260101|709|Devoluciones sobre ventas|01||||1|
+20260101|7091|Mercaderías - Venta de exportación|01||||1|
+20260101|70911|Terceros 70912 Relacionadas|01||||1|
+20260101|7092|Mercaderías - Venta local|01||||1|
+20260101|70921|Terceros|01||||1|
+20260101|70922|Relacionadas|01||||1|
+20260101|7093|Productos terminados - Venta de exportación|01||||1|
+20260101|70931|Terceros 70932 Relacionadas|01||||1|
+20260101|7094|Productos terminados - Venta local|01||||1|
+20260101|70941|Terceros 70942 Relacionadas|01||||1|
+20260101|7095|Inventarios de servicios rechazados|01||||1|
+20260101|70951|Terceros 70952 Relacionadas|01||||1|
+20260101|7096|Subproductos, desechos y desperdicios|01||||1|
+20260101|70961|Terceros|01||||1|
+20260101|70962|Relacionadas|01||||1|
+20260101|711|Variación de productos terminados|01||||1|
+20260101|7111|Productos terminados|01||||1|
+20260101|712|Variación de subproductos, desechos y desperdicios|01||||1|
+20260101|7121|Subproductos|01||||1|
+20260101|7122|Desechos y desperdicios|01||||1|
+20260101|713|Variación de productos en proceso|01||||1|
+20260101|7131|Productos en proceso de manufactura|01||||1|
+20260101|714|Variación de envases y embalajes|01||||1|
+20260101|7141|Envases|01||||1|
+20260101|7142|Embalajes|01||||1|
+20260101|715|Variación de inventarios de servicios|01||||1|
+20260101|7151|Inventarios de servicios en|01||||1|
+20260101|721|Propiedades de inversión|01||||1|
+20260101|7211|Edificaciones|01||||1|
+20260101|722|Propiedad, planta y equipo|01||||1|
+20260101|7220|Planta productora|01||||1|
+20260101|7221|Edificaciones|01||||1|
+20260101|7222|Maquinarias y otros equipos de explotación|01||||1|
+20260101|7223|Unidades de transporte|01||||1|
+20260101|7224|Muebles y enseres|01||||1|
+20260101|7225|Equipos diversos|01||||1|
+20260101|723|Intangibles|01||||1|
+20260101|7231|Programas de computadora ( software ) 7232 Costos de exploración y desarrollo|01||||1|
+20260101|7233|Fórmulas, diseños y prototipos|01||||1|
+20260101|724|Activos biológicos|01||||1|
+20260101|7241|Activos biológicos en desarrollo de origen animal|01||||1|
+20260101|7242|Activos biológicos en desarrollo de origen vegetal|01||||1|
+20260101|725|Costos de financiación capitalizados|01||||1|
+20260101|7251|Costos de financiación – Propiedades de inversión|01||||1|
+20260101|72511|Plantas productoras en desarrollo|01||||1|
+20260101|72512|Edificaciones|01||||1|
+20260101|7252|Costos de financiación – Propiedad, planta y equipo|01||||1|
+20260101|72521|Plantas productoras en desarrollo|01||||1|
+20260101|72522|Edificaciones|01||||1|
+20260101|72523|Maquinarias y otros equipos de explotación|01||||1|
+20260101|7253|Costos de financiación – Intangibles|01||||1|
+20260101|7254|Costos de financiación – Activos biológicos en desarrollo|01||||1|
+20260101|72541|Activos biológicos de origen animal|01||||1|
+20260101|72542|Activos biológicos de origen vegetal|01||||1|
+20260101|731|Descuentos, rebajas y bonificaciones obtenidos|01||||1|
+20260101|7311|Terceros|01||||1|
+20260101|7312|Relacionadas|01||||1|
+20260101|741|Descuentos, rebajas y bonificaciones concedidos|01||||1|
+20260101|7411|Terceros|01||||1|
+20260101|7412|Relacionadas|01||||1|
+20260101|751|Servicios en beneficio del personal|01||||1|
+20260101|752|Comisiones y corretajes|01||||1|
+20260101|753|Regalías|01||||1|
+20260101|754|Alquileres|01||||1|
+20260101|7540|Plantas productoras|01||||1|
+20260101|7541|Terrenos|01||||1|
+20260101|7542|Edificaciones|01||||1|
+20260101|7543|Maquinarias y equipos de explotación|01||||1|
+20260101|7544|Unidades de transporte|01||||1|
+20260101|7545|Equipos diversos|01||||1|
+20260101|755|Recuperación de cuentas de valuación|01||||1|
+20260101|7551|Recuperación – Cuentas de cobranza dudosa|01||||1|
+20260101|7552|Recuperación – Desvalorización de inventarios|01||||1|
+20260101|7553|Recuperación – Desvalorización de inversiones mobiliarias|01||||1|
+20260101|756|Enajenación de activos inmovilizados|01||||1|
+20260101|7561|Inversiones mobiliarias|01||||1|
+20260101|7562|Propiedades de inversión|01||||1|
+20260101|7563|Activos adquiridos en arrendamiento financiero|01||||1|
+20260101|7564|Propiedad, planta y equipo|01||||1|
+20260101|7565|Intangibles 7566 Activos biológicos|01||||1|
+20260101|757|Recuperación de deterioro de cuentas de activos inmovilizados|01||||1|
+20260101|7571|Recuperación de deterioro de propiedades de inversión|01||||1|
+20260101|7572|Recuperación de deterioro de propiedad, planta y equipo|01||||1|
+20260101|7573|Recuperación de deterioro de intangibles|01||||1|
+20260101|7574|Recuperación de deterioro de activos biológicos|01||||1|
+20260101|759|Otros ingresos de gestión|01||||1|
+20260101|7591|Subsidios gubernamentales|01||||1|
+20260101|7592|Reclamos al seguro|01||||1|
+20260101|7593|Donaciones|01||||1|
+20260101|7594|Devoluciones tributarias|01||||1|
+20260101|7599|Otros ingresos de gestión|01||||1|
+20260101|761|Activo realizable|01||||1|
+20260101|7611|Mercaderías|01||||1|
+20260101|7612|Productos terminados|01||||1|
+20260101|7613|Activos no corrientes mantenidos para la venta|01||||1|
+20260101|76131|Propiedades de inversión|01||||1|
+20260101|76132|Propiedad, planta y equipo|01||||1|
+20260101|76133|Intangibles|01||||1|
+20260101|76134|Activos biológicos|01||||1|
+20260101|762|Activo inmovilizado|01||||1|
+20260101|7621|Propiedades de inversión|01||||1|
+20260101|7622|Activos biológicos|01||||1|
+20260101|771|Ganancia por instrumento financiero derivado|01||||1|
+20260101|772|Rendimientos ganados|01||||1|
+20260101|7721|Depósitos en instituciones financieras|01||||1|
+20260101|7722|Cuentas por cobrar comerciales|01||||1|
+20260101|7723|Préstamos otorgados|01||||1|
+20260101|7724|Inversiones a ser mantenidas hasta el vencimiento|01||||1|
+20260101|7725|Instrumentos financieros representativos de derecho patrimonial|01||||1|
+20260101|773|Dividendos|01||||1|
+20260101|774|Ingresos en operaciones de factoraje|01||||1|
+20260101|776|Diferencia en cambio|01||||1|
+20260101|777|Ganancia por medición de activos y pasivos financieros al valor razonable|01||||1|
+20260101|7771|Inversiones mantenidas para negociación|01||||1|
+20260101|7772|Otras inversiones|01||||1|
+20260101|7773|Otras|01||||1|
+20260101|778|Participación en resultados de entidades relacionadas|01||||1|
+20260101|7781|Participación en los resultados de subsidiarias y asociadas bajo el método|01||||1|
+20260101|7782|Ingresos por participaciones en negocios conjuntos|01||||1|
+20260101|779|Otros ingresos financieros|01||||1|
+20260101|7792|Ingresos financieros en medición a valor descontado|01||||1|
+20260101|781|Cargas cubiertas por provisiones|01||||1|
+20260101|791|Cargas imputables a cuentas de costos y gastos|01||||1|
+20260101|792|Gastos financieros imputables a cuentas de inventarios|01||||1|
+20260101|801|Margen comercial|01||||1|
+20260101|811|Producción de bienes|01||||1|
+20260101|812|Producción de servicios|01||||1|
+20260101|813|Producción de activo inmovilizado|01||||1|
+20260101|821|Valor agregado|01||||1|
+20260101|831|Excedente bruto (insuficiencia bruta) de explotación|01||||1|
+20260101|841|Resultado de explotación|01||||1|
+20260101|851|Resultado antes del impuesto a las ganancias|01||||1|
+20260101|881|Impuesto a las ganancias – Corriente|01||||1|
+20260101|882|Impuesto a las ganancias – Diferido|01||||1|
+20260101|891|Utilidad|01||||1|
+20260101|892|Pérdida|01||||1|

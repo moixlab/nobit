@@ -49,7 +49,7 @@ fn make_csv(file_path: &Path, csv_path: &Path) -> Result<(), Box<dyn std::error:
             for line in lines {
                 if let Some((code, desc)) = line.split_once(" ") {
                     if code.len() > 2 && code.chars().all(|c| c.is_ascii_digit()) {
-                        writeln!(csv, "{year_now}0101|{code}|{}|01||||1", desc.trim())?;
+                        writeln!(csv, "{year_now}0101|{code}|{}|01||||1|", desc.trim())?;
                     }
                 }
             }
