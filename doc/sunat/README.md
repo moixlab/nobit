@@ -15,4 +15,6 @@
 * [Código de libros](./tecnico/ple-codigo-libros.md)
 * [Libro diario de formato simplificado](./tecnico/ple-050200.md)
 * [Libro diario de formato simplificado - Detalle del plan contable utilizado](./tecnico/ple-050400.md)
+* [Tabla 4: Tipo de moneda](./tecnico/tablas/t4.md)
+* [Tabla 10: Tipo de comprobante de pago o documento](./tecnico/tablas/t10.md)
 * [Tabla 17: Plan de cuentas](./tecnico/tablas/t17.md)
