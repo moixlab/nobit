@@ -7,6 +7,11 @@
 * [Regímenes tributarios](./legal/regimenes.md)
 * [Cronograma 2026 para Google Calendar](../../assets/cronograma_2026.csv)
 * [Plan Contable General Empresarial 2019 (sin elemento 0 y 9)](../../assets/pcge_2019.csv)
+
+  * `565` - Se recorta a 100 caracteres.
+  * `27243, 30111, 30114, 6881, 70121, 70122` - Código corregido.
+  * Pasa la validación de aplicativo PLE para `LERRRRRRRRRRR20260100050400001111.TXT`.
+
 * [Cuentas extra para elemento 0 y 9](./tecnico/ple-extra.md)
 
 ### PLE - Programa de Libros Electrónicos

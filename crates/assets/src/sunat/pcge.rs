@@ -33,7 +33,7 @@ async fn download(year: &str, file_path: &Path) -> Result<(), Box<dyn std::error
 fn make_csv(file_path: &Path, csv_path: &Path) -> Result<(), Box<dyn std::error::Error>> {
     let doc = Document::load(&file_path)?;
     let pages = doc.get_pages();
-    let re = Regex::new(r"\s{2,}").unwrap();
+    let re = Regex::new(r"(\d{2,})\s+([^\d\n\-]+)").unwrap();
     let year_now = Utc::now().year();
 
     let mut csv = OpenOptions::new()
@@ -44,17 +44,32 @@ fn make_csv(file_path: &Path, csv_path: &Path) -> Result<(), Box<dyn std::error:
     for page_num in 21..=62 {
         if let Some(_page_id) = pages.get(&page_num) {
             let text = doc.extract_text(&[page_num])?;
-            let lines: Vec<&str> = re.split(&text).collect();
 
-            for line in lines {
-                if let Some((code, desc)) = line.split_once(" ") {
-                    if code.len() > 2 && code.chars().all(|c| c.is_ascii_digit()) {
-                        writeln!(csv, "{year_now}0101|{code}|{}|01||||1|", desc.trim())?;
-                    }
+            let mut code_last = "".to_string();
+
+            for cap in re.captures_iter(&text) {
+                let code = check_code(&code_last, cap[1].trim());
+                let desc = cap[2].trim().chars().take(100).collect::<String>();
+
+                if code.len() > 2 && !desc.contains("ELEMENTO") {
+                    writeln!(csv, "{year_now}0101|{code}|{desc}|01||||1|")?;
+                    code_last = code;
                 }
             }
         }
     }
 
     Ok(())
+}
+
+fn check_code(code_last: &str, code_now: &str) -> String {
+    match (code_last, code_now) {
+        ("27242", "27233") => "27243".to_string(),
+        ("3011", "30221") => "30111".to_string(),
+        ("30111", "30224") => "30114".to_string(),
+        ("688", "6882") => "6881".to_string(),
+        ("7012", "70111") => "70121".to_string(),
+        ("70121", "70112") => "70122".to_string(),
+        _ => code_now.to_string(),
+    }
 }
