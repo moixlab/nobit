@@ -12,7 +12,7 @@ in
 pkgs.mkShell {
     # Herramientas
     nativeBuildInputs = with pkgs; [
-        rustToolchain # Rust
+        rustToolchain just # Rust
         sqlite # SQL
     ];
     # Librerías
@@ -22,8 +22,5 @@ pkgs.mkShell {
     ];
     # Configuración
     shellHook = ''
-      export PATH="$HOME/.cargo/bin:$PATH"
-
-      cargo install --locked just
     '';
 }
