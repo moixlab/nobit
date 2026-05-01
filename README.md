@@ -9,3 +9,12 @@
 3. Ser distribuido y portable, con resistencia a fenómenos previstos en los Andes.
 4. Priorizar para la contabilidad del sector agrícola en Perú, con enfoque en la normativa para Micro y pequeñas empresas (MYPES).
 
+## Compilación
+
+Requiere instalar las herramientas de compilación del lenguaje de programación [Rust](https://rust-lang.org/es/learn/get-started/).
+
+```bash
+cargo install -q just
+
+just build
+```
