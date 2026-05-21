@@ -1,12 +1,15 @@
 all:
     @just --list
 
+dev:
+    cargo run --release -p nobit
+
 assets TARGET OPTION:
     mkdir -p ./assets/
     cargo run --release -p assets -- {{ TARGET }} {{ OPTION }}
 
-run:
-    cargo run --release -p nobit
-
-build:
+build: format
     cargo build --release -p nobit
+
+format:
+    cargo fmt
