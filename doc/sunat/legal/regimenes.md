@@ -4,64 +4,58 @@
 
 #### 1. Nuevo Régimen Único Simplificado (NRUS)
 
-* Comprobantes:
+- Comprobantes:
+  - En venta: Boleta de Venta.
+  - En compras: Facturas, boletas de venta, tickers, etc. (debe figurar el RUC de la persona natural).
 
-  * En venta: Boleta de Venta.
-  * En compras: Facturas, boletas de venta, tickers, etc. (debe figurar el RUC de la persona natural).
-
-* Ingresos o compras no deben superar `S/8,000.00` por mes o `S/96,000.00` por año.
-* Los activos fijos no deben superar los `S/70,000.00`.
-* Permite importación hasta `$500.00` por mes.
-* Transporte de mercaderías hasta 2 toneladas métricas.
-* Declara cada mes en que categoría se establece:
-
-  * Categoría 1: Paga `S/20.00`, sino supera las ventas o compras de `S/5,000.00`.
-  * Categoría 2: Paga `S/50.00`, sino supera las ventas o compras de `S/8,0000.00`.
+- Ingresos o compras no deben superar `S/8,000.00` por mes o `S/96,000.00` por año.
+- Los activos fijos no deben superar los `S/70,000.00`.
+- Permite importación hasta `$500.00` por mes.
+- Transporte de mercaderías hasta 2 toneladas métricas.
+- Declara cada mes en que categoría se establece:
+  - Categoría 1: Paga `S/20.00`, sino supera las ventas o compras de `S/5,000.00`.
+  - Categoría 2: Paga `S/50.00`, sino supera las ventas o compras de `S/8,0000.00`.
 
 ### Persona jurídica
 
 #### 1. Régimen Especial de Renta (RER)
 
-* Comprobantes:
+- Comprobantes:
+  - En ventas: Facturas, boletas de venta y tickets.
+  - En compras: Facturas, boletas de venta, tickers, etc. (debe figurar el RUC de la persona natural).
+  - Otros: Guías de remisión, notas de débito y notas de crédito.
 
-  * En ventas: Facturas, boletas de venta y tickets.
-  * En compras: Facturas, boletas de venta, tickers, etc. (debe figurar el RUC de la persona natural).
-  * Otros: Guías de remisión, notas de débito y notas de crédito.
-
-* Ingresos o compras no deben superar `S/525,000.00` por año.
-* Tener máximo 10 trabajadores por turno.
-* Los activos fijos no deben superar los `S/126,000.00`.
-* No permite actividades relacionadas a la informática.
-* Declaración mensual:
-
-  * Presenta declaración jurada.
-  * Presenta registro de ventas y registro de ventas en SIRE (Sistema Integrado de Registros Electrónicos).
-  * El Impuesto General a la Venta (IGV) del 18%.
-  * El impuesto a la renta (el 1.5% sobre sus ingresos netos).
+- Ingresos o compras no deben superar `S/525,000.00` por año.
+- Tener máximo 10 trabajadores por turno.
+- Los activos fijos no deben superar los `S/126,000.00`.
+- No permite actividades relacionadas a la informática.
+- Declaración mensual:
+  - Presenta declaración jurada.
+  - Presenta registro de ventas y registro de ventas en SIRE (Sistema Integrado de Registros Electrónicos).
+  - El Impuesto General a la Venta (IGV) del 18%.
+  - El impuesto a la renta (el 1.5% sobre sus ingresos netos).
 
 #### 2. Régimen MYPE Tributario (RMT)
 
-* Para micro y pequeñas empresas (MYPE).
-* Ingresos netos no deben superar 1700 UIT (Unidad Impositiva Tributaria) o `S/9,350,000.00` el año anterior.
-* No permitido para Instituciones Educativas Particulares (IEP).
-* Declaración mensuales:
+- Para micro y pequeñas empresas (MYPE).
+- Ingresos netos no deben superar 1700 UIT (Unidad Impositiva Tributaria) o `S/9,350,000.00` el año anterior.
+- No permitido para Instituciones Educativas Particulares (IEP).
+- Declaración mensuales:
+  - Balance de IGV (18%).
+  - Paga 1%, si no supera 300 UIT o `S/1,650,000.00` de ingresos netos.
+  - Paga 1.5%, si supera los 300 UIT.
+  - Presenta declaración jurada mensual.
+  - Presenta registro de compras y registro de ventas.
+  - Presenta libro diario simplificado.
 
-  * Balance de IGV (18%).
-  * Paga 1%, si no supera 300 UIT o `S/1,650,000.00` de ingresos netos.
-  * Paga 1.5%, si supera los 300 UIT.
-  * Presenta declaración jurada mensual.
-  * Presenta registro de compras y registro de ventas.
-  * Presenta libro diario simplificado.
-
-* Declaración anual:
-
-  * Declaración jurada anual.
-  * Paga 10%, si no superan las utilidades los 15 UIT o `S/82,500.00`.
-  * Paga 29.5%, si supera los 15 UIT.
+- Declaración anual:
+  - Declaración jurada anual.
+  - Paga 10%, si no superan las utilidades los 15 UIT o `S/82,500.00`.
+  - Paga 29.5%, si supera los 15 UIT.
 
 #### 3. Régimen General (RG)
 
-* No tiene limitaciones y requiere llevar contabilidad completa.
+- No tiene limitaciones y requiere llevar contabilidad completa.
 
 ### Referencias
 

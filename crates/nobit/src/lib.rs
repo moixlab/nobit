@@ -22,11 +22,15 @@ struct Observable {
 
 struct Entry {
     id: Id,
-    at: At,
+    // Immutable
     concept: Concept,
     nature: Nature,
     quantity: Quantity,
+    // Mutable
     collection: Option<Id>,
     reference: Option<Id>,
     details: Option<String>,
+    // UTC Datetime
+    created_at: At, // Immutable
+    updated_at: At, // Mutable
 }

@@ -1,6 +1,6 @@
 ## Cuentas para el elemento 0 y 9
 
-### Elemento 0 (*)
+### Elemento 0 (\*)
 
 ```
 011|Bienes y valores entregados|
@@ -13,7 +13,7 @@
 091|Contrapartida de cuentas de orden acreedoras|
 ```
 
-* (*) Cuentas recomendadas en el PCGE 2019.
+- (\*) Cuentas recomendadas en el PCGE 2019.
 
 ### Elemento 9
 
