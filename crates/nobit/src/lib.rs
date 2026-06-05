@@ -1,3 +1,12 @@
+/* TODO:
+ * - id() -> id
+ * - add(id, concept, nature, quantity) -> id | created_at
+ * - get(id) -> Entry
+ * - del(id) -> id
+ * - put(id, collection, reference, details) -> id | updated_at
+ * - set(id, key, value) -> id | updated_at
+ */
+
 enum Nature {
     Debit,  // 01
     Credit, // 11
